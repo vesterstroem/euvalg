@@ -1,0 +1,150 @@
+Anton Rosenstrøm Laursen, q1-lidt-uenig
+Anton Rosenstrøm Laursen, q2-lidt-enig
+Anton Rosenstrøm Laursen, q3-lidt-enig
+Anton Rosenstrøm Laursen, q4-lidt-enig
+Anton Rosenstrøm Laursen, q5-uenig
+Anton Rosenstrøm Laursen, q6-uenig
+Anton Rosenstrøm Laursen, q7-lidt-enig
+Anton Rosenstrøm Laursen, q8-lidt-uenig
+Anton Rosenstrøm Laursen, q9-lidt-uenig
+Anton Rosenstrøm Laursen, q10-enig
+Anton Rosenstrøm Laursen, q11-uenig
+Anton Rosenstrøm Laursen, q12-lidt-enig
+Anton Rosenstrøm Laursen, q13-enig
+Anton Rosenstrøm Laursen, q14-lidt-enig
+Anton Rosenstrøm Laursen, q15-enig
+Anton Rosenstrøm Laursen, q16-uenig
+Anton Rosenstrøm Laursen, q17-lidt-uenig
+Anton Rosenstrøm Laursen, q18-enig
+Anton Rosenstrøm Laursen, q19-enig
+Anton Rosenstrøm Laursen, q20-uenig
+Anton Rosenstrøm Laursen, q21-lidt-enig
+Anton Rosenstrøm Laursen, q22-uenig
+Anton Rosenstrøm Laursen, q23-uenig
+Anton Rosenstrøm Laursen, q24-lidt-uenig
+Anton Rosenstrøm Laursen, q25-uenig
+Dina Person, q1-lidt-enig
+Dina Person, q2-enig
+Dina Person, q3-enig
+Dina Person, q4-enig
+Dina Person, q5-uenig
+Dina Person, q6-uenig
+Dina Person, q7-lidt-enig
+Dina Person, q8-lidt-uenig
+Dina Person, q9-lidt-enig
+Dina Person, q10-enig
+Dina Person, q11-uenig
+Dina Person, q12-enig
+Dina Person, q13-enig
+Dina Person, q14-lidt-uenig
+Dina Person, q15-enig
+Dina Person, q16-lidt-uenig
+Dina Person, q17-lidt-uenig
+Dina Person, q18-lidt-enig
+Dina Person, q19-enig
+Dina Person, q20-uenig
+Dina Person, q21-lidt-enig
+Dina Person, q22-lidt-uenig
+Dina Person, q23-uenig
+Dina Person, q24-lidt-uenig
+Dina Person, q25-lidt-uenig
+Erik Poulsen, q1-lidt-enig
+Erik Poulsen, q2-lidt-uenig
+Erik Poulsen, q3-enig
+Erik Poulsen, q4-enig
+Erik Poulsen, q5-lidt-uenig
+Erik Poulsen, q6-lidt-uenig
+Erik Poulsen, q7-lidt-enig
+Erik Poulsen, q8-lidt-enig
+Erik Poulsen, q9-lidt-enig
+Erik Poulsen, q10-enig
+Erik Poulsen, q11-lidt-enig
+Erik Poulsen, q12-enig
+Erik Poulsen, q13-lidt-enig
+Erik Poulsen, q14-uenig
+Erik Poulsen, q15-enig
+Erik Poulsen, q16-lidt-uenig
+Erik Poulsen, q17-uenig
+Erik Poulsen, q18-enig
+Erik Poulsen, q19-enig
+Erik Poulsen, q20-uenig
+Erik Poulsen, q21-lidt-enig
+Erik Poulsen, q22-lidt-uenig
+Erik Poulsen, q23-uenig
+Erik Poulsen, q24-lidt-enig
+Erik Poulsen, q25-lidt-uenig
+Claus Bisgaard Skovmose, q1-lidt-enig
+Claus Bisgaard Skovmose, q2-lidt-enig
+Claus Bisgaard Skovmose, q3-lidt-enig
+Claus Bisgaard Skovmose, q4-lidt-uenig
+Claus Bisgaard Skovmose, q5-lidt-uenig
+Claus Bisgaard Skovmose, q6-uenig
+Claus Bisgaard Skovmose, q7-enig
+Claus Bisgaard Skovmose, q8-lidt-uenig
+Claus Bisgaard Skovmose, q9-lidt-enig
+Claus Bisgaard Skovmose, q10-lidt-enig
+Claus Bisgaard Skovmose, q11-uenig
+Claus Bisgaard Skovmose, q12-lidt-enig
+Claus Bisgaard Skovmose, q13-lidt-enig
+Claus Bisgaard Skovmose, q14-lidt-uenig
+Claus Bisgaard Skovmose, q15-lidt-uenig
+Claus Bisgaard Skovmose, q16-lidt-enig
+Claus Bisgaard Skovmose, q17-lidt-uenig
+Claus Bisgaard Skovmose, q18-enig
+Claus Bisgaard Skovmose, q19-enig
+Claus Bisgaard Skovmose, q20-uenig
+Claus Bisgaard Skovmose, q21-lidt-enig
+Claus Bisgaard Skovmose, q22-uenig
+Claus Bisgaard Skovmose, q23-uenig
+Claus Bisgaard Skovmose, q24-uenig
+Claus Bisgaard Skovmose, q25-uenig
+Bent Juul Sørensen, q1-enig
+Bent Juul Sørensen, q2-lidt-uenig
+Bent Juul Sørensen, q3-lidt-enig
+Bent Juul Sørensen, q4-enig
+Bent Juul Sørensen, q5-lidt-uenig
+Bent Juul Sørensen, q6-uenig
+Bent Juul Sørensen, q7-lidt-enig
+Bent Juul Sørensen, q8-enig
+Bent Juul Sørensen, q9-enig
+Bent Juul Sørensen, q10-enig
+Bent Juul Sørensen, q11-lidt-uenig
+Bent Juul Sørensen, q12-lidt-enig
+Bent Juul Sørensen, q13-lidt-enig
+Bent Juul Sørensen, q14-lidt-enig
+Bent Juul Sørensen, q15-lidt-enig
+Bent Juul Sørensen, q16-lidt-uenig
+Bent Juul Sørensen, q17-lidt-uenig
+Bent Juul Sørensen, q18-enig
+Bent Juul Sørensen, q19-lidt-enig
+Bent Juul Sørensen, q20-uenig
+Bent Juul Sørensen, q21-enig
+Bent Juul Sørensen, q22-enig
+Bent Juul Sørensen, q23-uenig
+Bent Juul Sørensen, q24-lidt-uenig
+Bent Juul Sørensen, q25-uenig
+Nikolaj Vang, q1-lidt-uenig
+Nikolaj Vang, q2-lidt-enig
+Nikolaj Vang, q3-enig
+Nikolaj Vang, q4-lidt-enig
+Nikolaj Vang, q5-lidt-uenig
+Nikolaj Vang, q6-lidt-uenig
+Nikolaj Vang, q7-lidt-enig
+Nikolaj Vang, q8-lidt-uenig
+Nikolaj Vang, q9-lidt-enig
+Nikolaj Vang, q10-enig
+Nikolaj Vang, q11-uenig
+Nikolaj Vang, q12-lidt-enig
+Nikolaj Vang, q13-enig
+Nikolaj Vang, q14-lidt-uenig
+Nikolaj Vang, q15-lidt-enig
+Nikolaj Vang, q16-uenig
+Nikolaj Vang, q17-lidt-uenig
+Nikolaj Vang, q18-enig
+Nikolaj Vang, q19-enig
+Nikolaj Vang, q20-uenig
+Nikolaj Vang, q21-lidt-enig
+Nikolaj Vang, q22-lidt-uenig
+Nikolaj Vang, q23-uenig
+Nikolaj Vang, q24-lidt-enig
+Nikolaj Vang, q25-lidt-enig

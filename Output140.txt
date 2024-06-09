@@ -1,0 +1,250 @@
+Morten Vehl Revsbeck, q1-enig
+Morten Vehl Revsbeck, q2-lidt-enig
+Morten Vehl Revsbeck, q3-lidt-uenig
+Morten Vehl Revsbeck, q4-lidt-enig
+Morten Vehl Revsbeck, q5-enig
+Morten Vehl Revsbeck, q6-lidt-enig
+Morten Vehl Revsbeck, q7-enig
+Morten Vehl Revsbeck, q8-lidt-enig
+Morten Vehl Revsbeck, q9-lidt-enig
+Morten Vehl Revsbeck, q10-enig
+Morten Vehl Revsbeck, q11-lidt-uenig
+Morten Vehl Revsbeck, q12-enig
+Morten Vehl Revsbeck, q13-enig
+Morten Vehl Revsbeck, q14-lidt-enig
+Morten Vehl Revsbeck, q15-lidt-enig
+Morten Vehl Revsbeck, q16-lidt-uenig
+Morten Vehl Revsbeck, q17-uenig
+Morten Vehl Revsbeck, q18-lidt-enig
+Morten Vehl Revsbeck, q19-enig
+Morten Vehl Revsbeck, q20-uenig
+Morten Vehl Revsbeck, q21-lidt-enig
+Morten Vehl Revsbeck, q22-uenig
+Morten Vehl Revsbeck, q23-uenig
+Morten Vehl Revsbeck, q24-lidt-uenig
+Morten Vehl Revsbeck, q25-lidt-uenig
+Bob Richard Nielsen, q1-lidt-uenig
+Bob Richard Nielsen, q2-lidt-enig
+Bob Richard Nielsen, q3-lidt-enig
+Bob Richard Nielsen, q4-lidt-enig
+Bob Richard Nielsen, q5-uenig
+Bob Richard Nielsen, q6-lidt-uenig
+Bob Richard Nielsen, q7-enig
+Bob Richard Nielsen, q8-lidt-uenig
+Bob Richard Nielsen, q9-lidt-enig
+Bob Richard Nielsen, q10-enig
+Bob Richard Nielsen, q11-uenig
+Bob Richard Nielsen, q12-lidt-enig
+Bob Richard Nielsen, q13-enig
+Bob Richard Nielsen, q14-lidt-enig
+Bob Richard Nielsen, q15-enig
+Bob Richard Nielsen, q16-uenig
+Bob Richard Nielsen, q17-lidt-uenig
+Bob Richard Nielsen, q18-enig
+Bob Richard Nielsen, q19-enig
+Bob Richard Nielsen, q20-uenig
+Bob Richard Nielsen, q21-lidt-uenig
+Bob Richard Nielsen, q22-uenig
+Bob Richard Nielsen, q23-uenig
+Bob Richard Nielsen, q24-lidt-uenig
+Bob Richard Nielsen, q25-uenig
+Per Clausen, q1-lidt-enig
+Per Clausen, q2-lidt-uenig
+Per Clausen, q3-lidt-enig
+Per Clausen, q4-enig
+Per Clausen, q5-lidt-enig
+Per Clausen, q6-enig
+Per Clausen, q7-uenig
+Per Clausen, q8-enig
+Per Clausen, q9-uenig
+Per Clausen, q10-uenig
+Per Clausen, q11-uenig
+Per Clausen, q12-lidt-uenig
+Per Clausen, q13-uenig
+Per Clausen, q14-uenig
+Per Clausen, q15-enig
+Per Clausen, q16-enig
+Per Clausen, q17-enig
+Per Clausen, q18-lidt-uenig
+Per Clausen, q19-uenig
+Per Clausen, q20-enig
+Per Clausen, q21-enig
+Per Clausen, q22-enig
+Per Clausen, q23-enig
+Per Clausen, q24-lidt-uenig
+Per Clausen, q25-enig
+Frederikke Hellemann, q1-enig
+Frederikke Hellemann, q2-lidt-uenig
+Frederikke Hellemann, q3-lidt-enig
+Frederikke Hellemann, q4-enig
+Frederikke Hellemann, q5-enig
+Frederikke Hellemann, q6-lidt-enig
+Frederikke Hellemann, q7-lidt-uenig
+Frederikke Hellemann, q8-enig
+Frederikke Hellemann, q9-uenig
+Frederikke Hellemann, q10-uenig
+Frederikke Hellemann, q11-lidt-uenig
+Frederikke Hellemann, q12-lidt-enig
+Frederikke Hellemann, q13-uenig
+Frederikke Hellemann, q14-lidt-uenig
+Frederikke Hellemann, q15-enig
+Frederikke Hellemann, q16-enig
+Frederikke Hellemann, q17-enig
+Frederikke Hellemann, q18-uenig
+Frederikke Hellemann, q19-uenig
+Frederikke Hellemann, q20-enig
+Frederikke Hellemann, q21-enig
+Frederikke Hellemann, q22-lidt-enig
+Frederikke Hellemann, q23-lidt-enig
+Frederikke Hellemann, q24-lidt-uenig
+Frederikke Hellemann, q25-enig
+Nana Højlund, q1-lidt-enig
+Nana Højlund, q2-uenig
+Nana Højlund, q3-lidt-enig
+Nana Højlund, q4-enig
+Nana Højlund, q5-lidt-uenig
+Nana Højlund, q6-lidt-enig
+Nana Højlund, q7-lidt-enig
+Nana Højlund, q8-enig
+Nana Højlund, q9-uenig
+Nana Højlund, q10-uenig
+Nana Højlund, q11-lidt-enig
+Nana Højlund, q12-lidt-enig
+Nana Højlund, q13-uenig
+Nana Højlund, q14-lidt-enig
+Nana Højlund, q15-enig
+Nana Højlund, q16-enig
+Nana Højlund, q17-enig
+Nana Højlund, q18-lidt-uenig
+Nana Højlund, q19-uenig
+Nana Højlund, q20-lidt-enig
+Nana Højlund, q21-enig
+Nana Højlund, q22-enig
+Nana Højlund, q23-enig
+Nana Højlund, q24-lidt-enig
+Nana Højlund, q25-enig
+Ludvig Goldschmidt, q1-enig
+Ludvig Goldschmidt, q2-uenig
+Ludvig Goldschmidt, q3-lidt-enig
+Ludvig Goldschmidt, q4-enig
+Ludvig Goldschmidt, q5-enig
+Ludvig Goldschmidt, q6-enig
+Ludvig Goldschmidt, q7-lidt-uenig
+Ludvig Goldschmidt, q8-enig
+Ludvig Goldschmidt, q9-uenig
+Ludvig Goldschmidt, q10-uenig
+Ludvig Goldschmidt, q11-lidt-uenig
+Ludvig Goldschmidt, q12-lidt-enig
+Ludvig Goldschmidt, q13-uenig
+Ludvig Goldschmidt, q14-uenig
+Ludvig Goldschmidt, q15-enig
+Ludvig Goldschmidt, q16-enig
+Ludvig Goldschmidt, q17-enig
+Ludvig Goldschmidt, q18-uenig
+Ludvig Goldschmidt, q19-uenig
+Ludvig Goldschmidt, q20-enig
+Ludvig Goldschmidt, q21-enig
+Ludvig Goldschmidt, q22-enig
+Ludvig Goldschmidt, q23-lidt-enig
+Ludvig Goldschmidt, q24-lidt-uenig
+Ludvig Goldschmidt, q25-enig
+Asta Kofod, q1-lidt-enig
+Asta Kofod, q2-lidt-uenig
+Asta Kofod, q3-lidt-enig
+Asta Kofod, q4-lidt-enig
+Asta Kofod, q5-lidt-enig
+Asta Kofod, q6-lidt-enig
+Asta Kofod, q7-lidt-uenig
+Asta Kofod, q8-enig
+Asta Kofod, q9-uenig
+Asta Kofod, q10-uenig
+Asta Kofod, q11-lidt-enig
+Asta Kofod, q12-lidt-enig
+Asta Kofod, q13-uenig
+Asta Kofod, q14-lidt-uenig
+Asta Kofod, q15-enig
+Asta Kofod, q16-enig
+Asta Kofod, q17-enig
+Asta Kofod, q18-uenig
+Asta Kofod, q19-uenig
+Asta Kofod, q20-lidt-enig
+Asta Kofod, q21-enig
+Asta Kofod, q22-enig
+Asta Kofod, q23-lidt-enig
+Asta Kofod, q24-lidt-enig
+Asta Kofod, q25-enig
+Reinout Bosch, q1-lidt-enig
+Reinout Bosch, q2-uenig
+Reinout Bosch, q3-enig
+Reinout Bosch, q4-enig
+Reinout Bosch, q5-uenig
+Reinout Bosch, q6-enig
+Reinout Bosch, q7-uenig
+Reinout Bosch, q8-enig
+Reinout Bosch, q9-uenig
+Reinout Bosch, q10-uenig
+Reinout Bosch, q11-uenig
+Reinout Bosch, q12-uenig
+Reinout Bosch, q13-uenig
+Reinout Bosch, q14-lidt-uenig
+Reinout Bosch, q15-lidt-enig
+Reinout Bosch, q16-enig
+Reinout Bosch, q17-enig
+Reinout Bosch, q18-uenig
+Reinout Bosch, q19-uenig
+Reinout Bosch, q20-enig
+Reinout Bosch, q21-enig
+Reinout Bosch, q22-lidt-enig
+Reinout Bosch, q23-enig
+Reinout Bosch, q24-uenig
+Reinout Bosch, q25-enig
+Torsten Ringgaard, q1-lidt-uenig
+Torsten Ringgaard, q2-uenig
+Torsten Ringgaard, q3-enig
+Torsten Ringgaard, q4-enig
+Torsten Ringgaard, q5-lidt-uenig
+Torsten Ringgaard, q6-enig
+Torsten Ringgaard, q7-uenig
+Torsten Ringgaard, q8-enig
+Torsten Ringgaard, q9-uenig
+Torsten Ringgaard, q10-uenig
+Torsten Ringgaard, q11-uenig
+Torsten Ringgaard, q12-lidt-uenig
+Torsten Ringgaard, q13-uenig
+Torsten Ringgaard, q14-uenig
+Torsten Ringgaard, q15-enig
+Torsten Ringgaard, q16-enig
+Torsten Ringgaard, q17-enig
+Torsten Ringgaard, q18-uenig
+Torsten Ringgaard, q19-uenig
+Torsten Ringgaard, q20-lidt-enig
+Torsten Ringgaard, q21-enig
+Torsten Ringgaard, q22-lidt-enig
+Torsten Ringgaard, q23-lidt-enig
+Torsten Ringgaard, q24-lidt-uenig
+Torsten Ringgaard, q25-enig
+Stine Ry Andersen, q1-lidt-enig
+Stine Ry Andersen, q2-uenig
+Stine Ry Andersen, q3-lidt-enig
+Stine Ry Andersen, q4-enig
+Stine Ry Andersen, q5-enig
+Stine Ry Andersen, q6-lidt-enig
+Stine Ry Andersen, q7-lidt-enig
+Stine Ry Andersen, q8-enig
+Stine Ry Andersen, q9-uenig
+Stine Ry Andersen, q10-uenig
+Stine Ry Andersen, q11-lidt-enig
+Stine Ry Andersen, q12-lidt-uenig
+Stine Ry Andersen, q13-uenig
+Stine Ry Andersen, q14-uenig
+Stine Ry Andersen, q15-enig
+Stine Ry Andersen, q16-enig
+Stine Ry Andersen, q17-enig
+Stine Ry Andersen, q18-lidt-enig
+Stine Ry Andersen, q19-uenig
+Stine Ry Andersen, q20-enig
+Stine Ry Andersen, q21-enig
+Stine Ry Andersen, q22-lidt-enig
+Stine Ry Andersen, q23-lidt-enig
+Stine Ry Andersen, q24-lidt-uenig
+Stine Ry Andersen, q25-enig

@@ -1,0 +1,125 @@
+Kathrine Olldag, q1-enig
+Kathrine Olldag, q2-uenig
+Kathrine Olldag, q3-lidt-enig
+Kathrine Olldag, q4-enig
+Kathrine Olldag, q5-enig
+Kathrine Olldag, q6-lidt-enig
+Kathrine Olldag, q7-lidt-uenig
+Kathrine Olldag, q8-lidt-enig
+Kathrine Olldag, q9-uenig
+Kathrine Olldag, q10-lidt-uenig
+Kathrine Olldag, q11-lidt-enig
+Kathrine Olldag, q12-lidt-enig
+Kathrine Olldag, q13-lidt-uenig
+Kathrine Olldag, q14-uenig
+Kathrine Olldag, q15-lidt-enig
+Kathrine Olldag, q16-lidt-enig
+Kathrine Olldag, q17-enig
+Kathrine Olldag, q18-lidt-uenig
+Kathrine Olldag, q19-lidt-enig
+Kathrine Olldag, q20-enig
+Kathrine Olldag, q21-enig
+Kathrine Olldag, q22-lidt-enig
+Kathrine Olldag, q23-lidt-enig
+Kathrine Olldag, q24-lidt-uenig
+Kathrine Olldag, q25-enig
+Frederik Aagaard Sørensen, q1-enig
+Frederik Aagaard Sørensen, q2-uenig
+Frederik Aagaard Sørensen, q3-lidt-enig
+Frederik Aagaard Sørensen, q4-lidt-enig
+Frederik Aagaard Sørensen, q5-lidt-enig
+Frederik Aagaard Sørensen, q6-lidt-enig
+Frederik Aagaard Sørensen, q7-lidt-uenig
+Frederik Aagaard Sørensen, q8-enig
+Frederik Aagaard Sørensen, q9-uenig
+Frederik Aagaard Sørensen, q10-lidt-enig
+Frederik Aagaard Sørensen, q11-enig
+Frederik Aagaard Sørensen, q12-enig
+Frederik Aagaard Sørensen, q13-lidt-enig
+Frederik Aagaard Sørensen, q14-lidt-uenig
+Frederik Aagaard Sørensen, q15-lidt-enig
+Frederik Aagaard Sørensen, q16-lidt-enig
+Frederik Aagaard Sørensen, q17-enig
+Frederik Aagaard Sørensen, q18-lidt-uenig
+Frederik Aagaard Sørensen, q19-lidt-enig
+Frederik Aagaard Sørensen, q20-lidt-enig
+Frederik Aagaard Sørensen, q21-lidt-enig
+Frederik Aagaard Sørensen, q22-lidt-enig
+Frederik Aagaard Sørensen, q23-lidt-uenig
+Frederik Aagaard Sørensen, q24-lidt-enig
+Frederik Aagaard Sørensen, q25-lidt-enig
+Hediye Temiz, q1-enig
+Hediye Temiz, q2-uenig
+Hediye Temiz, q3-lidt-uenig
+Hediye Temiz, q4-lidt-enig
+Hediye Temiz, q5-lidt-enig
+Hediye Temiz, q6-lidt-enig
+Hediye Temiz, q7-lidt-enig
+Hediye Temiz, q8-lidt-enig
+Hediye Temiz, q9-lidt-uenig
+Hediye Temiz, q10-lidt-uenig
+Hediye Temiz, q11-lidt-enig
+Hediye Temiz, q12-lidt-enig
+Hediye Temiz, q13-lidt-uenig
+Hediye Temiz, q14-lidt-uenig
+Hediye Temiz, q15-lidt-uenig
+Hediye Temiz, q16-lidt-enig
+Hediye Temiz, q17-lidt-enig
+Hediye Temiz, q18-lidt-uenig
+Hediye Temiz, q19-uenig
+Hediye Temiz, q20-lidt-uenig
+Hediye Temiz, q21-lidt-enig
+Hediye Temiz, q22-lidt-enig
+Hediye Temiz, q23-lidt-uenig
+Hediye Temiz, q24-lidt-uenig
+Hediye Temiz, q25-enig
+Jens Frost, q1-enig
+Jens Frost, q2-uenig
+Jens Frost, q3-lidt-enig
+Jens Frost, q4-enig
+Jens Frost, q5-enig
+Jens Frost, q6-lidt-enig
+Jens Frost, q7-lidt-uenig
+Jens Frost, q8-enig
+Jens Frost, q9-uenig
+Jens Frost, q10-lidt-uenig
+Jens Frost, q11-lidt-enig
+Jens Frost, q12-lidt-enig
+Jens Frost, q13-lidt-uenig
+Jens Frost, q14-lidt-uenig
+Jens Frost, q15-lidt-enig
+Jens Frost, q16-lidt-enig
+Jens Frost, q17-enig
+Jens Frost, q18-lidt-uenig
+Jens Frost, q19-lidt-enig
+Jens Frost, q20-lidt-enig
+Jens Frost, q21-enig
+Jens Frost, q22-lidt-enig
+Jens Frost, q23-lidt-enig
+Jens Frost, q24-lidt-uenig
+Jens Frost, q25-enig
+João A. B. R. Møller, q1-enig
+João A. B. R. Møller, q2-uenig
+João A. B. R. Møller, q3-enig
+João A. B. R. Møller, q4-enig
+João A. B. R. Møller, q5-enig
+João A. B. R. Møller, q6-lidt-enig
+João A. B. R. Møller, q7-lidt-uenig
+João A. B. R. Møller, q8-enig
+João A. B. R. Møller, q9-uenig
+João A. B. R. Møller, q10-enig
+João A. B. R. Møller, q11-uenig
+João A. B. R. Møller, q12-uenig
+João A. B. R. Møller, q13-uenig
+João A. B. R. Møller, q14-uenig
+João A. B. R. Møller, q15-lidt-uenig
+João A. B. R. Møller, q16-enig
+João A. B. R. Møller, q17-enig
+João A. B. R. Møller, q18-lidt-uenig
+João A. B. R. Møller, q19-uenig
+João A. B. R. Møller, q20-enig
+João A. B. R. Møller, q21-enig
+João A. B. R. Møller, q22-lidt-enig
+João A. B. R. Møller, q23-lidt-uenig
+João A. B. R. Møller, q24-uenig
+João A. B. R. Møller, q25-enig

@@ -1,0 +1,125 @@
+Sigrid Friis, q1-enig
+Sigrid Friis, q2-uenig
+Sigrid Friis, q3-lidt-enig
+Sigrid Friis, q4-enig
+Sigrid Friis, q5-enig
+Sigrid Friis, q6-enig
+Sigrid Friis, q7-lidt-enig
+Sigrid Friis, q8-lidt-enig
+Sigrid Friis, q9-uenig
+Sigrid Friis, q10-lidt-uenig
+Sigrid Friis, q11-lidt-enig
+Sigrid Friis, q12-lidt-enig
+Sigrid Friis, q13-lidt-uenig
+Sigrid Friis, q14-uenig
+Sigrid Friis, q15-lidt-enig
+Sigrid Friis, q16-lidt-enig
+Sigrid Friis, q17-enig
+Sigrid Friis, q18-lidt-uenig
+Sigrid Friis, q19-lidt-enig
+Sigrid Friis, q20-enig
+Sigrid Friis, q21-enig
+Sigrid Friis, q22-lidt-enig
+Sigrid Friis, q23-lidt-enig
+Sigrid Friis, q24-lidt-uenig
+Sigrid Friis, q25-enig
+Anne Sophie Callesen, q1-enig
+Anne Sophie Callesen, q2-uenig
+Anne Sophie Callesen, q3-lidt-enig
+Anne Sophie Callesen, q4-enig
+Anne Sophie Callesen, q5-enig
+Anne Sophie Callesen, q6-enig
+Anne Sophie Callesen, q7-lidt-uenig
+Anne Sophie Callesen, q8-enig
+Anne Sophie Callesen, q9-uenig
+Anne Sophie Callesen, q10-lidt-uenig
+Anne Sophie Callesen, q11-lidt-enig
+Anne Sophie Callesen, q12-lidt-enig
+Anne Sophie Callesen, q13-uenig
+Anne Sophie Callesen, q14-uenig
+Anne Sophie Callesen, q15-lidt-enig
+Anne Sophie Callesen, q16-enig
+Anne Sophie Callesen, q17-enig
+Anne Sophie Callesen, q18-lidt-uenig
+Anne Sophie Callesen, q19-lidt-uenig
+Anne Sophie Callesen, q20-enig
+Anne Sophie Callesen, q21-enig
+Anne Sophie Callesen, q22-lidt-enig
+Anne Sophie Callesen, q23-lidt-enig
+Anne Sophie Callesen, q24-lidt-uenig
+Anne Sophie Callesen, q25-enig
+Philip Tarning-Andersen, q1-enig
+Philip Tarning-Andersen, q2-uenig
+Philip Tarning-Andersen, q3-lidt-enig
+Philip Tarning-Andersen, q4-enig
+Philip Tarning-Andersen, q5-enig
+Philip Tarning-Andersen, q6-lidt-enig
+Philip Tarning-Andersen, q7-lidt-enig
+Philip Tarning-Andersen, q8-enig
+Philip Tarning-Andersen, q9-uenig
+Philip Tarning-Andersen, q10-uenig
+Philip Tarning-Andersen, q11-lidt-enig
+Philip Tarning-Andersen, q12-lidt-enig
+Philip Tarning-Andersen, q13-uenig
+Philip Tarning-Andersen, q14-uenig
+Philip Tarning-Andersen, q15-lidt-enig
+Philip Tarning-Andersen, q16-lidt-enig
+Philip Tarning-Andersen, q17-enig
+Philip Tarning-Andersen, q18-uenig
+Philip Tarning-Andersen, q19-lidt-uenig
+Philip Tarning-Andersen, q20-enig
+Philip Tarning-Andersen, q21-enig
+Philip Tarning-Andersen, q22-lidt-enig
+Philip Tarning-Andersen, q23-lidt-uenig
+Philip Tarning-Andersen, q24-lidt-uenig
+Philip Tarning-Andersen, q25-enig
+Anne-Sofie Sadolin Henningsen, q1-enig
+Anne-Sofie Sadolin Henningsen, q2-uenig
+Anne-Sofie Sadolin Henningsen, q3-lidt-enig
+Anne-Sofie Sadolin Henningsen, q4-enig
+Anne-Sofie Sadolin Henningsen, q5-enig
+Anne-Sofie Sadolin Henningsen, q6-lidt-enig
+Anne-Sofie Sadolin Henningsen, q7-lidt-enig
+Anne-Sofie Sadolin Henningsen, q8-enig
+Anne-Sofie Sadolin Henningsen, q9-uenig
+Anne-Sofie Sadolin Henningsen, q10-lidt-uenig
+Anne-Sofie Sadolin Henningsen, q11-lidt-enig
+Anne-Sofie Sadolin Henningsen, q12-lidt-enig
+Anne-Sofie Sadolin Henningsen, q13-lidt-enig
+Anne-Sofie Sadolin Henningsen, q14-uenig
+Anne-Sofie Sadolin Henningsen, q15-lidt-enig
+Anne-Sofie Sadolin Henningsen, q16-enig
+Anne-Sofie Sadolin Henningsen, q17-enig
+Anne-Sofie Sadolin Henningsen, q18-uenig
+Anne-Sofie Sadolin Henningsen, q19-lidt-enig
+Anne-Sofie Sadolin Henningsen, q20-lidt-enig
+Anne-Sofie Sadolin Henningsen, q21-lidt-enig
+Anne-Sofie Sadolin Henningsen, q22-lidt-enig
+Anne-Sofie Sadolin Henningsen, q23-lidt-uenig
+Anne-Sofie Sadolin Henningsen, q24-lidt-enig
+Anne-Sofie Sadolin Henningsen, q25-lidt-enig
+Charlotte Amdi Burgess, q1-enig
+Charlotte Amdi Burgess, q2-uenig
+Charlotte Amdi Burgess, q3-lidt-enig
+Charlotte Amdi Burgess, q4-enig
+Charlotte Amdi Burgess, q5-enig
+Charlotte Amdi Burgess, q6-enig
+Charlotte Amdi Burgess, q7-lidt-uenig
+Charlotte Amdi Burgess, q8-enig
+Charlotte Amdi Burgess, q9-uenig
+Charlotte Amdi Burgess, q10-uenig
+Charlotte Amdi Burgess, q11-enig
+Charlotte Amdi Burgess, q12-lidt-uenig
+Charlotte Amdi Burgess, q13-lidt-enig
+Charlotte Amdi Burgess, q14-uenig
+Charlotte Amdi Burgess, q15-lidt-enig
+Charlotte Amdi Burgess, q16-enig
+Charlotte Amdi Burgess, q17-enig
+Charlotte Amdi Burgess, q18-lidt-uenig
+Charlotte Amdi Burgess, q19-enig
+Charlotte Amdi Burgess, q20-lidt-enig
+Charlotte Amdi Burgess, q21-enig
+Charlotte Amdi Burgess, q22-enig
+Charlotte Amdi Burgess, q23-lidt-uenig
+Charlotte Amdi Burgess, q24-lidt-uenig
+Charlotte Amdi Burgess, q25-enig

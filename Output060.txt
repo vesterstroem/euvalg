@@ -1,0 +1,250 @@
+Joan Kragh, q1-enig
+Joan Kragh, q2-uenig
+Joan Kragh, q3-enig
+Joan Kragh, q4-enig
+Joan Kragh, q5-enig
+Joan Kragh, q6-enig
+Joan Kragh, q7-lidt-uenig
+Joan Kragh, q8-enig
+Joan Kragh, q9-uenig
+Joan Kragh, q10-lidt-uenig
+Joan Kragh, q11-enig
+Joan Kragh, q12-enig
+Joan Kragh, q13-lidt-enig
+Joan Kragh, q14-uenig
+Joan Kragh, q15-lidt-uenig
+Joan Kragh, q16-enig
+Joan Kragh, q17-enig
+Joan Kragh, q18-lidt-uenig
+Joan Kragh, q19-lidt-enig
+Joan Kragh, q20-enig
+Joan Kragh, q21-enig
+Joan Kragh, q22-enig
+Joan Kragh, q23-lidt-enig
+Joan Kragh, q24-lidt-enig
+Joan Kragh, q25-enig
+Thue Grum-Schwensen, q1-enig
+Thue Grum-Schwensen, q2-lidt-uenig
+Thue Grum-Schwensen, q3-lidt-enig
+Thue Grum-Schwensen, q4-enig
+Thue Grum-Schwensen, q5-lidt-enig
+Thue Grum-Schwensen, q6-lidt-enig
+Thue Grum-Schwensen, q7-lidt-uenig
+Thue Grum-Schwensen, q8-enig
+Thue Grum-Schwensen, q9-uenig
+Thue Grum-Schwensen, q10-lidt-uenig
+Thue Grum-Schwensen, q11-lidt-enig
+Thue Grum-Schwensen, q12-lidt-enig
+Thue Grum-Schwensen, q13-lidt-enig
+Thue Grum-Schwensen, q14-lidt-uenig
+Thue Grum-Schwensen, q15-lidt-enig
+Thue Grum-Schwensen, q16-enig
+Thue Grum-Schwensen, q17-enig
+Thue Grum-Schwensen, q18-lidt-uenig
+Thue Grum-Schwensen, q19-lidt-enig
+Thue Grum-Schwensen, q20-enig
+Thue Grum-Schwensen, q21-enig
+Thue Grum-Schwensen, q22-enig
+Thue Grum-Schwensen, q23-lidt-enig
+Thue Grum-Schwensen, q24-lidt-enig
+Thue Grum-Schwensen, q25-enig
+Mads Hvid, q1-enig
+Mads Hvid, q2-uenig
+Mads Hvid, q3-enig
+Mads Hvid, q4-lidt-enig
+Mads Hvid, q5-enig
+Mads Hvid, q6-enig
+Mads Hvid, q7-lidt-uenig
+Mads Hvid, q8-enig
+Mads Hvid, q9-uenig
+Mads Hvid, q10-lidt-uenig
+Mads Hvid, q11-lidt-enig
+Mads Hvid, q12-enig
+Mads Hvid, q13-lidt-enig
+Mads Hvid, q14-lidt-uenig
+Mads Hvid, q15-enig
+Mads Hvid, q16-enig
+Mads Hvid, q17-enig
+Mads Hvid, q18-lidt-uenig
+Mads Hvid, q19-lidt-enig
+Mads Hvid, q20-enig
+Mads Hvid, q21-enig
+Mads Hvid, q22-enig
+Mads Hvid, q23-lidt-enig
+Mads Hvid, q24-lidt-enig
+Mads Hvid, q25-enig
+John Brandt, q1-enig
+John Brandt, q2-uenig
+John Brandt, q3-lidt-enig
+John Brandt, q4-enig
+John Brandt, q5-lidt-enig
+John Brandt, q6-lidt-enig
+John Brandt, q7-uenig
+John Brandt, q8-enig
+John Brandt, q9-uenig
+John Brandt, q10-lidt-uenig
+John Brandt, q11-lidt-enig
+John Brandt, q12-enig
+John Brandt, q13-lidt-uenig
+John Brandt, q14-uenig
+John Brandt, q15-lidt-uenig
+John Brandt, q16-enig
+John Brandt, q17-lidt-enig
+John Brandt, q18-uenig
+John Brandt, q19-uenig
+John Brandt, q20-lidt-enig
+John Brandt, q21-enig
+John Brandt, q22-enig
+John Brandt, q23-lidt-enig
+John Brandt, q24-uenig
+John Brandt, q25-enig
+Anders Bøge, q1-enig
+Anders Bøge, q2-uenig
+Anders Bøge, q3-lidt-enig
+Anders Bøge, q4-enig
+Anders Bøge, q5-enig
+Anders Bøge, q6-lidt-enig
+Anders Bøge, q7-uenig
+Anders Bøge, q8-enig
+Anders Bøge, q9-uenig
+Anders Bøge, q10-lidt-uenig
+Anders Bøge, q11-lidt-uenig
+Anders Bøge, q12-lidt-uenig
+Anders Bøge, q13-uenig
+Anders Bøge, q14-lidt-uenig
+Anders Bøge, q15-lidt-enig
+Anders Bøge, q16-lidt-uenig
+Anders Bøge, q17-enig
+Anders Bøge, q18-lidt-enig
+Anders Bøge, q19-lidt-uenig
+Anders Bøge, q20-enig
+Anders Bøge, q21-enig
+Anders Bøge, q22-enig
+Anders Bøge, q23-uenig
+Anders Bøge, q24-lidt-uenig
+Anders Bøge, q25-enig
+Pia Lieberknecht, q1-enig
+Pia Lieberknecht, q2-uenig
+Pia Lieberknecht, q3-lidt-enig
+Pia Lieberknecht, q4-enig
+Pia Lieberknecht, q5-enig
+Pia Lieberknecht, q6-lidt-enig
+Pia Lieberknecht, q7-uenig
+Pia Lieberknecht, q8-enig
+Pia Lieberknecht, q9-uenig
+Pia Lieberknecht, q10-lidt-uenig
+Pia Lieberknecht, q11-lidt-enig
+Pia Lieberknecht, q12-enig
+Pia Lieberknecht, q13-lidt-enig
+Pia Lieberknecht, q14-uenig
+Pia Lieberknecht, q15-lidt-enig
+Pia Lieberknecht, q16-enig
+Pia Lieberknecht, q17-enig
+Pia Lieberknecht, q18-lidt-uenig
+Pia Lieberknecht, q19-lidt-enig
+Pia Lieberknecht, q20-enig
+Pia Lieberknecht, q21-enig
+Pia Lieberknecht, q22-enig
+Pia Lieberknecht, q23-lidt-enig
+Pia Lieberknecht, q24-lidt-enig
+Pia Lieberknecht, q25-enig
+Emil Njor, q1-enig
+Emil Njor, q2-uenig
+Emil Njor, q3-lidt-enig
+Emil Njor, q4-enig
+Emil Njor, q5-enig
+Emil Njor, q6-lidt-enig
+Emil Njor, q7-lidt-uenig
+Emil Njor, q8-enig
+Emil Njor, q9-uenig
+Emil Njor, q10-lidt-uenig
+Emil Njor, q11-lidt-enig
+Emil Njor, q12-enig
+Emil Njor, q13-lidt-enig
+Emil Njor, q14-uenig
+Emil Njor, q15-lidt-enig
+Emil Njor, q16-enig
+Emil Njor, q17-enig
+Emil Njor, q18-lidt-uenig
+Emil Njor, q19-lidt-enig
+Emil Njor, q20-enig
+Emil Njor, q21-enig
+Emil Njor, q22-enig
+Emil Njor, q23-lidt-enig
+Emil Njor, q24-lidt-uenig
+Emil Njor, q25-enig
+Elias Julius Binggeli, q1-enig
+Elias Julius Binggeli, q2-uenig
+Elias Julius Binggeli, q3-lidt-enig
+Elias Julius Binggeli, q4-enig
+Elias Julius Binggeli, q5-enig
+Elias Julius Binggeli, q6-lidt-enig
+Elias Julius Binggeli, q7-lidt-uenig
+Elias Julius Binggeli, q8-enig
+Elias Julius Binggeli, q9-uenig
+Elias Julius Binggeli, q10-lidt-uenig
+Elias Julius Binggeli, q11-lidt-enig
+Elias Julius Binggeli, q12-enig
+Elias Julius Binggeli, q13-lidt-enig
+Elias Julius Binggeli, q14-uenig
+Elias Julius Binggeli, q15-lidt-enig
+Elias Julius Binggeli, q16-enig
+Elias Julius Binggeli, q17-enig
+Elias Julius Binggeli, q18-uenig
+Elias Julius Binggeli, q19-lidt-enig
+Elias Julius Binggeli, q20-enig
+Elias Julius Binggeli, q21-enig
+Elias Julius Binggeli, q22-enig
+Elias Julius Binggeli, q23-lidt-enig
+Elias Julius Binggeli, q24-lidt-enig
+Elias Julius Binggeli, q25-enig
+Kim Elmose, q1-enig
+Kim Elmose, q2-uenig
+Kim Elmose, q3-lidt-enig
+Kim Elmose, q4-enig
+Kim Elmose, q5-enig
+Kim Elmose, q6-lidt-enig
+Kim Elmose, q7-uenig
+Kim Elmose, q8-enig
+Kim Elmose, q9-uenig
+Kim Elmose, q10-lidt-uenig
+Kim Elmose, q11-lidt-enig
+Kim Elmose, q12-enig
+Kim Elmose, q13-uenig
+Kim Elmose, q14-uenig
+Kim Elmose, q15-lidt-uenig
+Kim Elmose, q16-enig
+Kim Elmose, q17-enig
+Kim Elmose, q18-uenig
+Kim Elmose, q19-lidt-uenig
+Kim Elmose, q20-enig
+Kim Elmose, q21-enig
+Kim Elmose, q22-enig
+Kim Elmose, q23-enig
+Kim Elmose, q24-lidt-enig
+Kim Elmose, q25-enig
+Allan Søgaard-Andersen, q1-enig
+Allan Søgaard-Andersen, q2-uenig
+Allan Søgaard-Andersen, q3-lidt-enig
+Allan Søgaard-Andersen, q4-enig
+Allan Søgaard-Andersen, q5-lidt-uenig
+Allan Søgaard-Andersen, q6-enig
+Allan Søgaard-Andersen, q7-uenig
+Allan Søgaard-Andersen, q8-enig
+Allan Søgaard-Andersen, q9-uenig
+Allan Søgaard-Andersen, q10-lidt-uenig
+Allan Søgaard-Andersen, q11-lidt-uenig
+Allan Søgaard-Andersen, q12-uenig
+Allan Søgaard-Andersen, q13-uenig
+Allan Søgaard-Andersen, q14-uenig
+Allan Søgaard-Andersen, q15-lidt-enig
+Allan Søgaard-Andersen, q16-enig
+Allan Søgaard-Andersen, q17-enig
+Allan Søgaard-Andersen, q18-lidt-uenig
+Allan Søgaard-Andersen, q19-uenig
+Allan Søgaard-Andersen, q20-lidt-enig
+Allan Søgaard-Andersen, q21-enig
+Allan Søgaard-Andersen, q22-lidt-enig
+Allan Søgaard-Andersen, q23-lidt-enig
+Allan Søgaard-Andersen, q24-lidt-enig
+Allan Søgaard-Andersen, q25-enig

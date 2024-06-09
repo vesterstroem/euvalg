@@ -1,0 +1,246 @@
+Niels Flemming Hansen, q1-lidt-enig
+Niels Flemming Hansen, q2-lidt-uenig
+Niels Flemming Hansen, q3-lidt-uenig
+Niels Flemming Hansen, q4-enig
+Niels Flemming Hansen, q5-lidt-uenig
+Niels Flemming Hansen, q6-lidt-uenig
+Niels Flemming Hansen, q7-lidt-enig
+Niels Flemming Hansen, q8-lidt-enig
+Niels Flemming Hansen, q9-lidt-uenig
+Niels Flemming Hansen, q10-lidt-enig
+Niels Flemming Hansen, q11-lidt-enig
+Niels Flemming Hansen, q12-lidt-enig
+Niels Flemming Hansen, q13-enig
+Niels Flemming Hansen, q14-lidt-uenig
+Niels Flemming Hansen, q15-enig
+Niels Flemming Hansen, q16-lidt-uenig
+Niels Flemming Hansen, q17-lidt-enig
+Niels Flemming Hansen, q18-lidt-uenig
+Niels Flemming Hansen, q19-enig
+Niels Flemming Hansen, q20-uenig
+Niels Flemming Hansen, q21-lidt-enig
+Niels Flemming Hansen, q22-lidt-uenig
+Niels Flemming Hansen, q23-uenig
+Niels Flemming Hansen, q24-lidt-enig
+Niels Flemming Hansen, q25-lidt-uenig
+Marcus Knuth, q1-lidt-enig
+Marcus Knuth, q2-lidt-uenig
+Marcus Knuth, q3-lidt-enig
+Marcus Knuth, q4-lidt-enig
+Marcus Knuth, q5-lidt-uenig
+Marcus Knuth, q6-lidt-uenig
+Marcus Knuth, q7-lidt-enig
+Marcus Knuth, q8-lidt-enig
+Marcus Knuth, q9-lidt-uenig
+Marcus Knuth, q10-lidt-enig
+Marcus Knuth, q11-lidt-uenig
+Marcus Knuth, q12-enig
+Marcus Knuth, q13-lidt-enig
+Marcus Knuth, q14-lidt-uenig
+Marcus Knuth, q15-enig
+Marcus Knuth, q16-lidt-enig
+Marcus Knuth, q17-lidt-uenig
+Marcus Knuth, q18-lidt-enig
+Marcus Knuth, q19-enig
+Marcus Knuth, q20-uenig
+Marcus Knuth, q21-enig
+Marcus Knuth, q22-lidt-uenig
+Marcus Knuth, q23-uenig
+Marcus Knuth, q24-lidt-uenig
+Marcus Knuth, q25-lidt-uenig
+Birgitte Bergman, q1-enig
+Birgitte Bergman, q2-lidt-uenig
+Birgitte Bergman, q3-lidt-uenig
+Birgitte Bergman, q4-enig
+Birgitte Bergman, q5-lidt-enig
+Birgitte Bergman, q6-lidt-uenig
+Birgitte Bergman, q7-lidt-enig
+Birgitte Bergman, q8-lidt-enig
+Birgitte Bergman, q9-uenig
+Birgitte Bergman, q10-enig
+Birgitte Bergman, q11-lidt-enig
+Birgitte Bergman, q12-enig
+Birgitte Bergman, q13-enig
+Birgitte Bergman, q14-lidt-uenig
+Birgitte Bergman, q15-enig
+Birgitte Bergman, q16-lidt-enig
+Birgitte Bergman, q17-enig
+Birgitte Bergman, q18-lidt-uenig
+Birgitte Bergman, q19-enig
+Birgitte Bergman, q20-uenig
+Birgitte Bergman, q21-lidt-enig
+Birgitte Bergman, q22-lidt-enig
+Birgitte Bergman, q23-uenig
+Birgitte Bergman, q24-lidt-uenig
+Birgitte Bergman, q25-uenig
+Maria Pryds, q1-lidt-enig
+Maria Pryds, q2-lidt-uenig
+Maria Pryds, q3-lidt-uenig
+Maria Pryds, q4-lidt-enig
+Maria Pryds, q5-uenig
+Maria Pryds, q6-lidt-uenig
+Maria Pryds, q7-enig
+Maria Pryds, q8-lidt-enig
+Maria Pryds, q9-lidt-uenig
+Maria Pryds, q10-lidt-enig
+Maria Pryds, q11-lidt-uenig
+Maria Pryds, q12-enig
+Maria Pryds, q13-lidt-enig
+Maria Pryds, q14-lidt-uenig
+Maria Pryds, q15-enig
+Maria Pryds, q16-lidt-enig
+Maria Pryds, q17-lidt-enig
+Maria Pryds, q18-lidt-enig
+Maria Pryds, q19-enig
+Maria Pryds, q20-uenig
+Maria Pryds, q21-lidt-enig
+Maria Pryds, q22-lidt-enig
+Maria Pryds, q23-uenig
+Maria Pryds, q24-lidt-uenig
+Maria Pryds, q25-lidt-uenig
+Steen Holm Iversen, q1-enig
+Steen Holm Iversen, q2-lidt-uenig
+Steen Holm Iversen, q3-lidt-enig
+Steen Holm Iversen, q4-lidt-enig
+Steen Holm Iversen, q5-lidt-enig
+Steen Holm Iversen, q6-lidt-enig
+Steen Holm Iversen, q7-enig
+Steen Holm Iversen, q8-lidt-enig
+Steen Holm Iversen, q9-uenig
+Steen Holm Iversen, q10-enig
+Steen Holm Iversen, q11-lidt-enig
+Steen Holm Iversen, q12-enig
+Steen Holm Iversen, q13-lidt-enig
+Steen Holm Iversen, q14-uenig
+Steen Holm Iversen, q15-enig
+Steen Holm Iversen, q16-lidt-uenig
+Steen Holm Iversen, q17-lidt-enig
+Steen Holm Iversen, q18-enig
+Steen Holm Iversen, q19-lidt-enig
+Steen Holm Iversen, q20-uenig
+Steen Holm Iversen, q21-enig
+Steen Holm Iversen, q22-lidt-enig
+Steen Holm Iversen, q23-uenig
+Steen Holm Iversen, q24-lidt-enig
+Steen Holm Iversen, q25-lidt-uenig
+Tina-Mia Eriksen, q1-lidt-enig
+Tina-Mia Eriksen, q2-lidt-uenig
+Tina-Mia Eriksen, q3-lidt-enig
+Tina-Mia Eriksen, q4-lidt-uenig
+Tina-Mia Eriksen, q5-lidt-uenig
+Tina-Mia Eriksen, q6-lidt-uenig
+Tina-Mia Eriksen, q7-lidt-enig
+Tina-Mia Eriksen, q8-lidt-enig
+Tina-Mia Eriksen, q9-lidt-uenig
+Tina-Mia Eriksen, q10-lidt-uenig
+Tina-Mia Eriksen, q11-lidt-uenig
+Tina-Mia Eriksen, q12-lidt-uenig
+Tina-Mia Eriksen, q13-lidt-enig
+Tina-Mia Eriksen, q14-lidt-enig
+Tina-Mia Eriksen, q15-enig
+Tina-Mia Eriksen, q16-lidt-enig
+Tina-Mia Eriksen, q17-lidt-enig
+Tina-Mia Eriksen, q18-lidt-enig
+Tina-Mia Eriksen, q19-lidt-enig
+Tina-Mia Eriksen, q20-lidt-uenig
+Tina-Mia Eriksen, q21-lidt-enig
+Tina-Mia Eriksen, q22-lidt-uenig
+Tina-Mia Eriksen, q23-lidt-uenig
+Tina-Mia Eriksen, q24-lidt-uenig
+Tina-Mia Eriksen, q25-lidt-uenig
+Søren Friis Trebbien, q1-enig
+Søren Friis Trebbien, q2-uenig
+Søren Friis Trebbien, q3-lidt-enig
+Søren Friis Trebbien, q4-lidt-enig
+Søren Friis Trebbien, q5-enig
+Søren Friis Trebbien, q6-lidt-uenig
+Søren Friis Trebbien, q7-lidt-enig
+Søren Friis Trebbien, q8-lidt-enig
+Søren Friis Trebbien, q9-lidt-uenig
+Søren Friis Trebbien, q10-lidt-enig
+Søren Friis Trebbien, q11-lidt-enig
+Søren Friis Trebbien, q12-enig
+Søren Friis Trebbien, q13-lidt-enig
+Søren Friis Trebbien, q14-lidt-uenig
+Søren Friis Trebbien, q15-lidt-uenig
+Søren Friis Trebbien, q16-lidt-enig
+Søren Friis Trebbien, q17-lidt-enig
+Søren Friis Trebbien, q18-lidt-enig
+Søren Friis Trebbien, q19-lidt-enig
+Søren Friis Trebbien, q20-lidt-uenig
+Søren Friis Trebbien, q21-lidt-enig
+Søren Friis Trebbien, q22-enig
+Søren Friis Trebbien, q23-lidt-enig
+Søren Friis Trebbien, q24-lidt-enig
+Søren Friis Trebbien, q25-lidt-uenig
+Flemming Kent Vesterby Agerskov, q1-enig
+Flemming Kent Vesterby Agerskov, q2-uenig
+Flemming Kent Vesterby Agerskov, q3-enig
+Flemming Kent Vesterby Agerskov, q4-enig
+Flemming Kent Vesterby Agerskov, q5-lidt-enig
+Flemming Kent Vesterby Agerskov, q6-lidt-uenig
+Flemming Kent Vesterby Agerskov, q7-lidt-enig
+Flemming Kent Vesterby Agerskov, q8-lidt-uenig
+Flemming Kent Vesterby Agerskov, q9-lidt-uenig
+Flemming Kent Vesterby Agerskov, q10-lidt-enig
+Flemming Kent Vesterby Agerskov, q11-lidt-enig
+Flemming Kent Vesterby Agerskov, q12-enig
+Flemming Kent Vesterby Agerskov, q13-enig
+Flemming Kent Vesterby Agerskov, q14-uenig
+Flemming Kent Vesterby Agerskov, q15-lidt-enig
+Flemming Kent Vesterby Agerskov, q16-lidt-uenig
+Flemming Kent Vesterby Agerskov, q17-lidt-enig
+Flemming Kent Vesterby Agerskov, q18-lidt-enig
+Flemming Kent Vesterby Agerskov, q19-lidt-enig
+Flemming Kent Vesterby Agerskov, q20-lidt-uenig
+Flemming Kent Vesterby Agerskov, q21-lidt-enig
+Jacob Rosenberg, q1-enig
+Jacob Rosenberg, q2-lidt-uenig
+Jacob Rosenberg, q3-enig
+Jacob Rosenberg, q4-enig
+Jacob Rosenberg, q5-lidt-uenig
+Jacob Rosenberg, q6-lidt-uenig
+Jacob Rosenberg, q7-lidt-enig
+Jacob Rosenberg, q8-lidt-enig
+Jacob Rosenberg, q9-lidt-uenig
+Jacob Rosenberg, q10-lidt-enig
+Jacob Rosenberg, q11-lidt-enig
+Jacob Rosenberg, q12-enig
+Jacob Rosenberg, q13-enig
+Jacob Rosenberg, q14-lidt-enig
+Jacob Rosenberg, q15-lidt-uenig
+Jacob Rosenberg, q16-lidt-uenig
+Jacob Rosenberg, q17-lidt-uenig
+Jacob Rosenberg, q18-lidt-uenig
+Jacob Rosenberg, q19-enig
+Jacob Rosenberg, q20-uenig
+Jacob Rosenberg, q21-enig
+Jacob Rosenberg, q22-enig
+Jacob Rosenberg, q23-uenig
+Jacob Rosenberg, q24-lidt-enig
+Jacob Rosenberg, q25-uenig
+Natasja Bruun Knudsen, q1-lidt-enig
+Natasja Bruun Knudsen, q2-lidt-uenig
+Natasja Bruun Knudsen, q3-lidt-enig
+Natasja Bruun Knudsen, q4-enig
+Natasja Bruun Knudsen, q5-lidt-uenig
+Natasja Bruun Knudsen, q6-lidt-uenig
+Natasja Bruun Knudsen, q7-lidt-enig
+Natasja Bruun Knudsen, q8-lidt-enig
+Natasja Bruun Knudsen, q9-lidt-uenig
+Natasja Bruun Knudsen, q10-enig
+Natasja Bruun Knudsen, q11-lidt-enig
+Natasja Bruun Knudsen, q12-enig
+Natasja Bruun Knudsen, q13-lidt-uenig
+Natasja Bruun Knudsen, q14-lidt-uenig
+Natasja Bruun Knudsen, q15-lidt-enig
+Natasja Bruun Knudsen, q16-lidt-uenig
+Natasja Bruun Knudsen, q17-lidt-enig
+Natasja Bruun Knudsen, q18-lidt-enig
+Natasja Bruun Knudsen, q19-enig
+Natasja Bruun Knudsen, q20-uenig
+Natasja Bruun Knudsen, q21-enig
+Natasja Bruun Knudsen, q22-lidt-enig
+Natasja Bruun Knudsen, q23-uenig
+Natasja Bruun Knudsen, q24-lidt-uenig
+Natasja Bruun Knudsen, q25-lidt-uenig

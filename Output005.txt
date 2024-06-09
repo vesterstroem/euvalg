@@ -1,0 +1,125 @@
+Mathias Niebuhr, q1-enig
+Mathias Niebuhr, q2-lidt-uenig
+Mathias Niebuhr, q3-lidt-enig
+Mathias Niebuhr, q4-enig
+Mathias Niebuhr, q5-lidt-enig
+Mathias Niebuhr, q6-lidt-enig
+Mathias Niebuhr, q7-lidt-enig
+Mathias Niebuhr, q8-enig
+Mathias Niebuhr, q9-uenig
+Mathias Niebuhr, q10-lidt-uenig
+Mathias Niebuhr, q11-uenig
+Mathias Niebuhr, q12-lidt-enig
+Mathias Niebuhr, q13-lidt-enig
+Mathias Niebuhr, q14-uenig
+Mathias Niebuhr, q15-enig
+Mathias Niebuhr, q16-lidt-enig
+Mathias Niebuhr, q17-enig
+Mathias Niebuhr, q18-uenig
+Mathias Niebuhr, q19-enig
+Mathias Niebuhr, q20-lidt-enig
+Mathias Niebuhr, q21-enig
+Mathias Niebuhr, q22-lidt-uenig
+Mathias Niebuhr, q23-enig
+Mathias Niebuhr, q24-lidt-enig
+Mathias Niebuhr, q25-lidt-enig
+Niels Christian Dahl, q1-enig
+Niels Christian Dahl, q2-uenig
+Niels Christian Dahl, q3-enig
+Niels Christian Dahl, q4-enig
+Niels Christian Dahl, q5-enig
+Niels Christian Dahl, q6-lidt-uenig
+Niels Christian Dahl, q7-lidt-enig
+Niels Christian Dahl, q8-enig
+Niels Christian Dahl, q9-uenig
+Niels Christian Dahl, q10-enig
+Niels Christian Dahl, q11-enig
+Niels Christian Dahl, q12-enig
+Niels Christian Dahl, q13-lidt-enig
+Niels Christian Dahl, q14-uenig
+Niels Christian Dahl, q15-lidt-uenig
+Niels Christian Dahl, q16-lidt-uenig
+Niels Christian Dahl, q17-enig
+Niels Christian Dahl, q18-lidt-enig
+Niels Christian Dahl, q19-enig
+Niels Christian Dahl, q20-lidt-enig
+Niels Christian Dahl, q21-enig
+Niels Christian Dahl, q22-lidt-enig
+Niels Christian Dahl, q23-uenig
+Niels Christian Dahl, q24-enig
+Niels Christian Dahl, q25-lidt-enig
+Andi Helbo Sejersen, q1-enig
+Andi Helbo Sejersen, q2-uenig
+Andi Helbo Sejersen, q3-enig
+Andi Helbo Sejersen, q4-enig
+Andi Helbo Sejersen, q5-lidt-uenig
+Andi Helbo Sejersen, q6-lidt-uenig
+Andi Helbo Sejersen, q7-uenig
+Andi Helbo Sejersen, q8-enig
+Andi Helbo Sejersen, q9-uenig
+Andi Helbo Sejersen, q10-lidt-enig
+Andi Helbo Sejersen, q11-lidt-uenig
+Andi Helbo Sejersen, q12-enig
+Andi Helbo Sejersen, q13-lidt-enig
+Andi Helbo Sejersen, q14-lidt-uenig
+Andi Helbo Sejersen, q15-enig
+Andi Helbo Sejersen, q16-enig
+Andi Helbo Sejersen, q17-enig
+Andi Helbo Sejersen, q18-lidt-uenig
+Andi Helbo Sejersen, q19-enig
+Andi Helbo Sejersen, q20-enig
+Andi Helbo Sejersen, q21-enig
+Andi Helbo Sejersen, q22-enig
+Andi Helbo Sejersen, q23-lidt-enig
+Andi Helbo Sejersen, q24-lidt-uenig
+Andi Helbo Sejersen, q25-enig
+Tayo Lill Andreasen, q1-enig
+Tayo Lill Andreasen, q2-uenig
+Tayo Lill Andreasen, q3-lidt-enig
+Tayo Lill Andreasen, q4-enig
+Tayo Lill Andreasen, q5-enig
+Tayo Lill Andreasen, q6-lidt-enig
+Tayo Lill Andreasen, q7-lidt-enig
+Tayo Lill Andreasen, q8-enig
+Tayo Lill Andreasen, q9-uenig
+Tayo Lill Andreasen, q10-lidt-enig
+Tayo Lill Andreasen, q11-enig
+Tayo Lill Andreasen, q12-enig
+Tayo Lill Andreasen, q13-lidt-enig
+Tayo Lill Andreasen, q14-uenig
+Tayo Lill Andreasen, q15-uenig
+Tayo Lill Andreasen, q16-enig
+Tayo Lill Andreasen, q17-lidt-uenig
+Tayo Lill Andreasen, q18-lidt-uenig
+Tayo Lill Andreasen, q19-enig
+Tayo Lill Andreasen, q20-enig
+Tayo Lill Andreasen, q21-enig
+Tayo Lill Andreasen, q22-enig
+Tayo Lill Andreasen, q23-lidt-uenig
+Tayo Lill Andreasen, q24-enig
+Tayo Lill Andreasen, q25-enig
+Maria Radoor, q1-enig
+Maria Radoor, q2-lidt-uenig
+Maria Radoor, q3-enig
+Maria Radoor, q4-enig
+Maria Radoor, q5-lidt-enig
+Maria Radoor, q6-lidt-uenig
+Maria Radoor, q7-lidt-uenig
+Maria Radoor, q8-lidt-enig
+Maria Radoor, q9-uenig
+Maria Radoor, q10-lidt-enig
+Maria Radoor, q11-uenig
+Maria Radoor, q12-lidt-enig
+Maria Radoor, q13-lidt-enig
+Maria Radoor, q14-uenig
+Maria Radoor, q15-lidt-enig
+Maria Radoor, q16-lidt-enig
+Maria Radoor, q17-enig
+Maria Radoor, q18-lidt-uenig
+Maria Radoor, q19-enig
+Maria Radoor, q20-lidt-enig
+Maria Radoor, q21-lidt-enig
+Maria Radoor, q22-lidt-uenig
+Maria Radoor, q23-lidt-enig
+Maria Radoor, q24-lidt-enig
+Maria Radoor, q25-lidt-uenig

@@ -1,0 +1,249 @@
+Henrik Dahl, q1-enig
+Henrik Dahl, q2-lidt-uenig
+Henrik Dahl, q3-lidt-enig
+Henrik Dahl, q4-enig
+Henrik Dahl, q5-lidt-enig
+Henrik Dahl, q6-enig
+Henrik Dahl, q7-enig
+Henrik Dahl, q8-lidt-uenig
+Henrik Dahl, q9-uenig
+Henrik Dahl, q10-enig
+Henrik Dahl, q11-enig
+Henrik Dahl, q12-enig
+Henrik Dahl, q13-lidt-enig
+Henrik Dahl, q14-uenig
+Henrik Dahl, q15-enig
+Henrik Dahl, q16-uenig
+Henrik Dahl, q17-lidt-enig
+Henrik Dahl, q18-lidt-uenig
+Henrik Dahl, q19-enig
+Henrik Dahl, q20-uenig
+Henrik Dahl, q21-enig
+Henrik Dahl, q22-lidt-uenig
+Henrik Dahl, q23-uenig
+Henrik Dahl, q24-lidt-uenig
+Henrik Dahl, q25-uenig
+Mads Strange, q1-enig
+Mads Strange, q2-uenig
+Mads Strange, q3-lidt-enig
+Mads Strange, q4-enig
+Mads Strange, q5-lidt-enig
+Mads Strange, q6-lidt-enig
+Mads Strange, q7-enig
+Mads Strange, q8-lidt-uenig
+Mads Strange, q9-uenig
+Mads Strange, q10-lidt-enig
+Mads Strange, q11-lidt-enig
+Mads Strange, q12-enig
+Mads Strange, q13-lidt-enig
+Mads Strange, q14-lidt-uenig
+Mads Strange, q15-enig
+Mads Strange, q16-lidt-uenig
+Mads Strange, q17-lidt-uenig
+Mads Strange, q18-lidt-uenig
+Mads Strange, q19-enig
+Mads Strange, q20-uenig
+Mads Strange, q21-enig
+Mads Strange, q22-lidt-enig
+Mads Strange, q23-uenig
+Mads Strange, q24-lidt-uenig
+Mads Strange, q25-lidt-uenig
+Thorbjørn Jacobsen, q1-enig
+Thorbjørn Jacobsen, q2-uenig
+Thorbjørn Jacobsen, q3-lidt-enig
+Thorbjørn Jacobsen, q4-enig
+Thorbjørn Jacobsen, q5-enig
+Thorbjørn Jacobsen, q6-lidt-enig
+Thorbjørn Jacobsen, q7-enig
+Thorbjørn Jacobsen, q8-uenig
+Thorbjørn Jacobsen, q9-lidt-uenig
+Thorbjørn Jacobsen, q10-lidt-enig
+Thorbjørn Jacobsen, q11-lidt-enig
+Thorbjørn Jacobsen, q12-enig
+Thorbjørn Jacobsen, q13-lidt-enig
+Thorbjørn Jacobsen, q14-uenig
+Thorbjørn Jacobsen, q15-lidt-enig
+Thorbjørn Jacobsen, q16-lidt-uenig
+Thorbjørn Jacobsen, q17-lidt-enig
+Thorbjørn Jacobsen, q18-lidt-uenig
+Thorbjørn Jacobsen, q19-enig
+Thorbjørn Jacobsen, q20-uenig
+Thorbjørn Jacobsen, q21-enig
+Thorbjørn Jacobsen, q22-lidt-enig
+Thorbjørn Jacobsen, q23-uenig
+Thorbjørn Jacobsen, q24-lidt-uenig
+Thorbjørn Jacobsen, q25-lidt-uenig
+Carsten Normann, q1-enig
+Carsten Normann, q2-uenig
+Carsten Normann, q3-lidt-enig
+Carsten Normann, q4-enig
+Carsten Normann, q5-enig
+Carsten Normann, q6-enig
+Carsten Normann, q7-enig
+Carsten Normann, q8-lidt-uenig
+Carsten Normann, q9-lidt-uenig
+Carsten Normann, q10-lidt-enig
+Carsten Normann, q11-enig
+Carsten Normann, q12-enig
+Carsten Normann, q13-lidt-enig
+Carsten Normann, q14-lidt-uenig
+Carsten Normann, q15-enig
+Carsten Normann, q16-uenig
+Carsten Normann, q17-lidt-enig
+Carsten Normann, q18-lidt-uenig
+Carsten Normann, q19-enig
+Carsten Normann, q20-uenig
+Carsten Normann, q21-enig
+Carsten Normann, q22-lidt-enig
+Carsten Normann, q23-uenig
+Carsten Normann, q24-lidt-uenig
+Carsten Normann, q25-lidt-enig
+Helle Jensen, q1-enig
+Helle Jensen, q2-uenig
+Helle Jensen, q3-lidt-enig
+Helle Jensen, q4-enig
+Helle Jensen, q5-enig
+Helle Jensen, q6-enig
+Helle Jensen, q7-enig
+Helle Jensen, q8-uenig
+Helle Jensen, q9-uenig
+Helle Jensen, q10-enig
+Helle Jensen, q11-enig
+Helle Jensen, q12-enig
+Helle Jensen, q13-lidt-enig
+Helle Jensen, q14-uenig
+Helle Jensen, q15-enig
+Helle Jensen, q16-uenig
+Helle Jensen, q17-lidt-enig
+Helle Jensen, q18-lidt-uenig
+Helle Jensen, q19-enig
+Helle Jensen, q20-uenig
+Helle Jensen, q21-enig
+Helle Jensen, q22-lidt-enig
+Helle Jensen, q23-uenig
+Helle Jensen, q24-uenig
+Helle Jensen, q25-lidt-uenig
+Martin Sibast Laugesen, q1-enig
+Martin Sibast Laugesen, q2-uenig
+Martin Sibast Laugesen, q3-lidt-enig
+Martin Sibast Laugesen, q4-enig
+Martin Sibast Laugesen, q5-lidt-enig
+Martin Sibast Laugesen, q6-enig
+Martin Sibast Laugesen, q7-enig
+Martin Sibast Laugesen, q8-lidt-uenig
+Martin Sibast Laugesen, q9-lidt-uenig
+Martin Sibast Laugesen, q10-enig
+Martin Sibast Laugesen, q11-lidt-uenig
+Martin Sibast Laugesen, q12-enig
+Martin Sibast Laugesen, q13-lidt-enig
+Martin Sibast Laugesen, q14-uenig
+Martin Sibast Laugesen, q15-lidt-enig
+Martin Sibast Laugesen, q16-uenig
+Martin Sibast Laugesen, q17-lidt-enig
+Martin Sibast Laugesen, q18-enig
+Martin Sibast Laugesen, q19-enig
+Martin Sibast Laugesen, q20-uenig
+Martin Sibast Laugesen, q21-enig
+Martin Sibast Laugesen, q22-lidt-uenig
+Martin Sibast Laugesen, q23-uenig
+Martin Sibast Laugesen, q24-lidt-uenig
+Martin Sibast Laugesen, q25-uenig
+Thomas Vesth, q1-lidt-enig
+Thomas Vesth, q3-uenig
+Thomas Vesth, q4-enig
+Thomas Vesth, q5-lidt-enig
+Thomas Vesth, q6-lidt-enig
+Thomas Vesth, q7-enig
+Thomas Vesth, q8-lidt-uenig
+Thomas Vesth, q9-lidt-uenig
+Thomas Vesth, q10-lidt-enig
+Thomas Vesth, q11-lidt-uenig
+Thomas Vesth, q12-lidt-enig
+Thomas Vesth, q13-lidt-enig
+Thomas Vesth, q14-lidt-uenig
+Thomas Vesth, q15-lidt-enig
+Thomas Vesth, q16-lidt-uenig
+Thomas Vesth, q17-lidt-enig
+Thomas Vesth, q18-lidt-uenig
+Thomas Vesth, q19-lidt-enig
+Thomas Vesth, q20-uenig
+Thomas Vesth, q21-lidt-enig
+Thomas Vesth, q22-lidt-uenig
+Thomas Vesth, q23-uenig
+Thomas Vesth, q24-lidt-uenig
+Thomas Vesth, q25-lidt-uenig
+Nikolaj Steffenauer, q1-enig
+Nikolaj Steffenauer, q2-uenig
+Nikolaj Steffenauer, q3-lidt-enig
+Nikolaj Steffenauer, q4-enig
+Nikolaj Steffenauer, q5-lidt-enig
+Nikolaj Steffenauer, q6-enig
+Nikolaj Steffenauer, q7-enig
+Nikolaj Steffenauer, q8-uenig
+Nikolaj Steffenauer, q9-lidt-uenig
+Nikolaj Steffenauer, q10-lidt-enig
+Nikolaj Steffenauer, q11-enig
+Nikolaj Steffenauer, q12-enig
+Nikolaj Steffenauer, q13-enig
+Nikolaj Steffenauer, q14-uenig
+Nikolaj Steffenauer, q15-lidt-enig
+Nikolaj Steffenauer, q16-uenig
+Nikolaj Steffenauer, q17-lidt-enig
+Nikolaj Steffenauer, q18-lidt-enig
+Nikolaj Steffenauer, q19-enig
+Nikolaj Steffenauer, q20-uenig
+Nikolaj Steffenauer, q21-enig
+Nikolaj Steffenauer, q22-lidt-enig
+Nikolaj Steffenauer, q23-uenig
+Nikolaj Steffenauer, q24-uenig
+Nikolaj Steffenauer, q25-lidt-uenig
+Danny Malkowski, q1-enig
+Danny Malkowski, q2-uenig
+Danny Malkowski, q3-lidt-enig
+Danny Malkowski, q4-enig
+Danny Malkowski, q5-enig
+Danny Malkowski, q6-lidt-enig
+Danny Malkowski, q7-enig
+Danny Malkowski, q8-uenig
+Danny Malkowski, q9-uenig
+Danny Malkowski, q10-enig
+Danny Malkowski, q11-enig
+Danny Malkowski, q12-enig
+Danny Malkowski, q13-enig
+Danny Malkowski, q14-uenig
+Danny Malkowski, q15-enig
+Danny Malkowski, q16-uenig
+Danny Malkowski, q17-lidt-enig
+Danny Malkowski, q18-lidt-uenig
+Danny Malkowski, q19-enig
+Danny Malkowski, q20-uenig
+Danny Malkowski, q21-enig
+Danny Malkowski, q22-lidt-enig
+Danny Malkowski, q23-uenig
+Danny Malkowski, q24-lidt-uenig
+Danny Malkowski, q25-lidt-uenig
+Lars Høyer Holmqvist, q1-enig
+Lars Høyer Holmqvist, q2-uenig
+Lars Høyer Holmqvist, q3-lidt-enig
+Lars Høyer Holmqvist, q4-enig
+Lars Høyer Holmqvist, q5-enig
+Lars Høyer Holmqvist, q6-enig
+Lars Høyer Holmqvist, q7-enig
+Lars Høyer Holmqvist, q8-lidt-uenig
+Lars Høyer Holmqvist, q9-lidt-uenig
+Lars Høyer Holmqvist, q10-enig
+Lars Høyer Holmqvist, q11-enig
+Lars Høyer Holmqvist, q12-enig
+Lars Høyer Holmqvist, q13-enig
+Lars Høyer Holmqvist, q14-lidt-uenig
+Lars Høyer Holmqvist, q15-enig
+Lars Høyer Holmqvist, q16-lidt-uenig
+Lars Høyer Holmqvist, q17-lidt-enig
+Lars Høyer Holmqvist, q18-lidt-uenig
+Lars Høyer Holmqvist, q19-enig
+Lars Høyer Holmqvist, q20-uenig
+Lars Høyer Holmqvist, q21-enig
+Lars Høyer Holmqvist, q22-uenig
+Lars Høyer Holmqvist, q23-uenig
+Lars Høyer Holmqvist, q24-uenig
+Lars Høyer Holmqvist, q25-lidt-uenig

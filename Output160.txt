@@ -1,0 +1,223 @@
+Sofie Groth, q1-enig
+Sofie Groth, q2-uenig
+Sofie Groth, q3-lidt-enig
+Sofie Groth, q4-lidt-enig
+Sofie Groth, q5-enig
+Sofie Groth, q6-lidt-enig
+Sofie Groth, q7-lidt-enig
+Sofie Groth, q8-enig
+Sofie Groth, q9-uenig
+Sofie Groth, q10-lidt-uenig
+Sofie Groth, q11-lidt-uenig
+Sofie Groth, q12-lidt-uenig
+Sofie Groth, q13-lidt-uenig
+Sofie Groth, q14-lidt-uenig
+Sofie Groth, q15-lidt-enig
+Sofie Groth, q16-enig
+Sofie Groth, q17-enig
+Sofie Groth, q18-lidt-uenig
+Sofie Groth, q19-lidt-uenig
+Sofie Groth, q20-lidt-enig
+Sofie Groth, q21-enig
+Sofie Groth, q22-lidt-enig
+Sofie Groth, q23-lidt-enig
+Sofie Groth, q24-lidt-uenig
+Sofie Groth, q25-enig
+Jørn Grønkjær, q1-enig
+Jørn Grønkjær, q2-uenig
+Jørn Grønkjær, q3-enig
+Jørn Grønkjær, q4-enig
+Jørn Grønkjær, q5-enig
+Jørn Grønkjær, q6-lidt-enig
+Jørn Grønkjær, q7-lidt-enig
+Jørn Grønkjær, q8-enig
+Jørn Grønkjær, q9-uenig
+Jørn Grønkjær, q10-lidt-enig
+Jørn Grønkjær, q11-enig
+Jørn Grønkjær, q12-lidt-uenig
+Jørn Grønkjær, q13-enig
+Jørn Grønkjær, q14-uenig
+Jørn Grønkjær, q15-uenig
+Jørn Grønkjær, q16-enig
+Jørn Grønkjær, q17-lidt-enig
+Jørn Grønkjær, q18-lidt-enig
+Jørn Grønkjær, q19-lidt-enig
+Jørn Grønkjær, q20-enig
+Jørn Grønkjær, q21-enig
+Jørn Grønkjær, q22-lidt-enig
+Jørn Grønkjær, q23-enig
+Jørn Grønkjær, q24-lidt-uenig
+Jørn Grønkjær, q25-enig
+Valentina Crast, q1-enig
+Valentina Crast, q2-uenig
+Valentina Crast, q3-lidt-enig
+Valentina Crast, q4-enig
+Valentina Crast, q5-enig
+Valentina Crast, q6-lidt-enig
+Valentina Crast, q7-lidt-uenig
+Valentina Crast, q8-enig
+Valentina Crast, q9-uenig
+Valentina Crast, q10-uenig
+Valentina Crast, q11-lidt-uenig
+Valentina Crast, q12-lidt-uenig
+Valentina Crast, q13-lidt-uenig
+Valentina Crast, q14-uenig
+Valentina Crast, q15-uenig
+Valentina Crast, q16-enig
+Valentina Crast, q17-enig
+Valentina Crast, q18-uenig
+Valentina Crast, q19-uenig
+Valentina Crast, q20-enig
+Valentina Crast, q21-enig
+Valentina Crast, q22-enig
+Valentina Crast, q23-enig
+Valentina Crast, q24-lidt-uenig
+Valentina Crast, q25-enig
+Julius Schubring, q1-enig
+Julius Schubring, q2-uenig
+Julius Schubring, q3-lidt-enig
+Julius Schubring, q4-enig
+Julius Schubring, q5-lidt-enig
+Julius Schubring, q6-lidt-uenig
+Julius Schubring, q7-lidt-uenig
+Julius Schubring, q8-lidt-enig
+Julius Schubring, q9-uenig
+Julius Schubring, q10-uenig
+Julius Schubring, q11-lidt-enig
+Julius Schubring, q12-lidt-enig
+Julius Schubring, q13-lidt-uenig
+Julius Schubring, q14-uenig
+Julius Schubring, q15-lidt-uenig
+Julius Schubring, q16-enig
+Julius Schubring, q17-enig
+Julius Schubring, q18-uenig
+Julius Schubring, q19-uenig
+Julius Schubring, q20-enig
+Julius Schubring, q21-enig
+Julius Schubring, q22-enig
+Julius Schubring, q23-enig
+Julius Schubring, q24-lidt-uenig
+Julius Schubring, q25-enig
+Johannes Slyngborg, q1-enig
+Johannes Slyngborg, q2-uenig
+Johannes Slyngborg, q3-lidt-enig
+Johannes Slyngborg, q4-enig
+Johannes Slyngborg, q5-enig
+Johannes Slyngborg, q6-enig
+Johannes Slyngborg, q7-lidt-enig
+Johannes Slyngborg, q8-enig
+Johannes Slyngborg, q9-uenig
+Johannes Slyngborg, q10-uenig
+Johannes Slyngborg, q11-lidt-enig
+Johannes Slyngborg, q12-uenig
+Johannes Slyngborg, q13-uenig
+Johannes Slyngborg, q14-uenig
+Johannes Slyngborg, q15-lidt-enig
+Johannes Slyngborg, q16-enig
+Johannes Slyngborg, q17-enig
+Johannes Slyngborg, q18-uenig
+Johannes Slyngborg, q19-uenig
+Johannes Slyngborg, q20-enig
+Johannes Slyngborg, q21-enig
+Johannes Slyngborg, q22-enig
+Johannes Slyngborg, q23-enig
+Johannes Slyngborg, q24-uenig
+Johannes Slyngborg, q25-enig
+Yurdal Cicek, q1-enig
+Yurdal Cicek, q2-uenig
+Yurdal Cicek, q3-enig
+Yurdal Cicek, q4-lidt-enig
+Yurdal Cicek, q5-enig
+Yurdal Cicek, q6-lidt-uenig
+Yurdal Cicek, q7-lidt-enig
+Yurdal Cicek, q8-enig
+Yurdal Cicek, q9-uenig
+Yurdal Cicek, q10-uenig
+Yurdal Cicek, q11-lidt-uenig
+Yurdal Cicek, q12-uenig
+Yurdal Cicek, q13-uenig
+Yurdal Cicek, q14-lidt-uenig
+Yurdal Cicek, q15-lidt-uenig
+Yurdal Cicek, q16-lidt-enig
+Yurdal Cicek, q17-enig
+Yurdal Cicek, q18-uenig
+Yurdal Cicek, q19-lidt-enig
+Yurdal Cicek, q20-lidt-enig
+Yurdal Cicek, q21-enig
+Yurdal Cicek, q22-lidt-enig
+Yurdal Cicek, q23-enig
+Yurdal Cicek, q24-uenig
+Yurdal Cicek, q25-enig
+Anette Jensen Smith, q1-enig
+Anette Jensen Smith, q2-uenig
+Anette Jensen Smith, q3-lidt-enig
+Anette Jensen Smith, q4-enig
+Anette Jensen Smith, q5-lidt-enig
+Anette Jensen Smith, q6-lidt-enig
+Anette Jensen Smith, q7-lidt-uenig
+Anette Jensen Smith, q8-enig
+Anette Jensen Smith, q9-uenig
+Anette Jensen Smith, q10-uenig
+Anette Jensen Smith, q11-lidt-enig
+Anette Jensen Smith, q12-lidt-enig
+Anette Jensen Smith, q13-uenig
+Anette Jensen Smith, q14-uenig
+Anette Jensen Smith, q15-lidt-uenig
+Anette Jensen Smith, q16-enig
+Anette Jensen Smith, q17-enig
+Anette Jensen Smith, q18-uenig
+Anette Jensen Smith, q19-uenig
+Anette Jensen Smith, q20-lidt-enig
+Anette Jensen Smith, q21-enig
+Anette Jensen Smith, q22-lidt-enig
+Anette Jensen Smith, q23-lidt-enig
+Anette Jensen Smith, q24-lidt-uenig
+Anette Jensen Smith, q25-enig
+Mikael Hertig, q1-enig
+Mikael Hertig, q2-uenig
+Mikael Hertig, q3-lidt-enig
+Mikael Hertig, q4-enig
+Mikael Hertig, q5-enig
+Mikael Hertig, q6-lidt-uenig
+Mikael Hertig, q7-lidt-uenig
+Mikael Hertig, q8-enig
+Mikael Hertig, q9-uenig
+Mikael Hertig, q10-uenig
+Mikael Hertig, q11-lidt-enig
+Mikael Hertig, q12-lidt-enig
+Mikael Hertig, q13-lidt-uenig
+Mikael Hertig, q14-lidt-uenig
+Mikael Hertig, q15-lidt-uenig
+Mikael Hertig, q16-lidt-enig
+Mikael Hertig, q17-lidt-enig
+Mikael Hertig, q18-lidt-enig
+Mikael Hertig, q19-uenig
+Mikael Hertig, q20-lidt-enig
+Mikael Hertig, q21-lidt-uenig
+Mikael Hertig, q22-lidt-uenig
+Mikael Hertig, q23-lidt-enig
+Mikael Hertig, q24-lidt-uenig
+Mikael Hertig, q25-lidt-enig
+Irina Bjørnø, q2-lidt-uenig
+Irina Bjørnø, q3-lidt-uenig
+Irina Bjørnø, q4-enig
+Irina Bjørnø, q5-lidt-uenig
+Irina Bjørnø, q6-lidt-enig
+Irina Bjørnø, q7-lidt-enig
+Irina Bjørnø, q8-lidt-enig
+Irina Bjørnø, q9-lidt-enig
+Irina Bjørnø, q10-lidt-enig
+Irina Bjørnø, q11-lidt-uenig
+Irina Bjørnø, q12-lidt-uenig
+Irina Bjørnø, q13-lidt-uenig
+Irina Bjørnø, q14-lidt-uenig
+Irina Bjørnø, q15-lidt-uenig
+Irina Bjørnø, q16-lidt-uenig
+Irina Bjørnø, q17-lidt-enig
+Irina Bjørnø, q18-lidt-uenig
+Irina Bjørnø, q19-lidt-enig
+Irina Bjørnø, q20-lidt-enig
+Irina Bjørnø, q21-lidt-uenig
+Irina Bjørnø, q22-enig
+Irina Bjørnø, q23-lidt-uenig
+Irina Bjørnø, q24-lidt-uenig

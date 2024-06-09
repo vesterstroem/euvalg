@@ -1,0 +1,224 @@
+Louise Siv Ebbesen, q1-enig
+Louise Siv Ebbesen, q2-lidt-uenig
+Louise Siv Ebbesen, q3-lidt-enig
+Louise Siv Ebbesen, q4-enig
+Louise Siv Ebbesen, q5-enig
+Louise Siv Ebbesen, q6-enig
+Louise Siv Ebbesen, q7-enig
+Louise Siv Ebbesen, q8-uenig
+Louise Siv Ebbesen, q9-lidt-uenig
+Louise Siv Ebbesen, q10-enig
+Louise Siv Ebbesen, q11-enig
+Louise Siv Ebbesen, q12-enig
+Louise Siv Ebbesen, q13-enig
+Louise Siv Ebbesen, q14-lidt-uenig
+Louise Siv Ebbesen, q15-lidt-enig
+Louise Siv Ebbesen, q16-uenig
+Louise Siv Ebbesen, q17-lidt-uenig
+Louise Siv Ebbesen, q18-lidt-uenig
+Louise Siv Ebbesen, q19-enig
+Louise Siv Ebbesen, q20-uenig
+Louise Siv Ebbesen, q21-enig
+Louise Siv Ebbesen, q22-lidt-uenig
+Louise Siv Ebbesen, q23-uenig
+Louise Siv Ebbesen, q24-lidt-uenig
+Louise Siv Ebbesen, q25-uenig
+Chelle Lilly, q1-enig
+Chelle Lilly, q2-uenig
+Chelle Lilly, q3-lidt-enig
+Chelle Lilly, q4-enig
+Chelle Lilly, q5-enig
+Chelle Lilly, q6-enig
+Chelle Lilly, q7-enig
+Chelle Lilly, q8-uenig
+Chelle Lilly, q9-uenig
+Chelle Lilly, q10-enig
+Chelle Lilly, q11-enig
+Chelle Lilly, q12-enig
+Chelle Lilly, q13-enig
+Chelle Lilly, q14-uenig
+Chelle Lilly, q15-enig
+Chelle Lilly, q16-uenig
+Chelle Lilly, q17-lidt-enig
+Chelle Lilly, q18-lidt-uenig
+Chelle Lilly, q19-enig
+Chelle Lilly, q20-uenig
+Chelle Lilly, q21-enig
+Chelle Lilly, q22-lidt-enig
+Chelle Lilly, q23-uenig
+Chelle Lilly, q24-uenig
+Chelle Lilly, q25-lidt-uenig
+Stine Bosse, q1-enig
+Stine Bosse, q2-uenig
+Stine Bosse, q3-enig
+Stine Bosse, q4-enig
+Stine Bosse, q5-enig
+Stine Bosse, q6-lidt-uenig
+Stine Bosse, q7-lidt-enig
+Stine Bosse, q8-enig
+Stine Bosse, q9-uenig
+Stine Bosse, q10-lidt-enig
+Stine Bosse, q11-enig
+Stine Bosse, q12-enig
+Stine Bosse, q13-enig
+Stine Bosse, q14-uenig
+Stine Bosse, q15-lidt-uenig
+Stine Bosse, q16-lidt-enig
+Stine Bosse, q17-enig
+Stine Bosse, q18-lidt-uenig
+Stine Bosse, q19-enig
+Stine Bosse, q20-enig
+Stine Bosse, q21-enig
+Stine Bosse, q22-lidt-uenig
+Stine Bosse, q23-lidt-enig
+Stine Bosse, q24-lidt-uenig
+Stine Bosse, q25-lidt-enig
+Bergur Løkke Rasmussen, q1-enig
+Bergur Løkke Rasmussen, q2-uenig
+Bergur Løkke Rasmussen, q3-enig
+Bergur Løkke Rasmussen, q4-enig
+Bergur Løkke Rasmussen, q5-enig
+Bergur Løkke Rasmussen, q6-lidt-uenig
+Bergur Løkke Rasmussen, q7-enig
+Bergur Løkke Rasmussen, q8-enig
+Bergur Løkke Rasmussen, q9-uenig
+Bergur Løkke Rasmussen, q10-lidt-enig
+Bergur Løkke Rasmussen, q11-enig
+Bergur Løkke Rasmussen, q12-enig
+Bergur Løkke Rasmussen, q13-enig
+Bergur Løkke Rasmussen, q14-uenig
+Bergur Løkke Rasmussen, q15-lidt-uenig
+Bergur Løkke Rasmussen, q16-lidt-enig
+Bergur Løkke Rasmussen, q17-enig
+Bergur Løkke Rasmussen, q18-lidt-uenig
+Bergur Løkke Rasmussen, q19-enig
+Bergur Løkke Rasmussen, q20-enig
+Bergur Løkke Rasmussen, q21-enig
+Bergur Løkke Rasmussen, q22-lidt-uenig
+Bergur Løkke Rasmussen, q23-lidt-enig
+Bergur Løkke Rasmussen, q24-lidt-uenig
+Bergur Løkke Rasmussen, q25-lidt-enig
+Tobias Marney, q1-enig
+Tobias Marney, q2-uenig
+Tobias Marney, q3-lidt-enig
+Tobias Marney, q4-enig
+Tobias Marney, q5-enig
+Tobias Marney, q6-lidt-enig
+Tobias Marney, q7-lidt-enig
+Tobias Marney, q8-lidt-enig
+Tobias Marney, q9-uenig
+Tobias Marney, q10-lidt-enig
+Tobias Marney, q11-enig
+Tobias Marney, q12-enig
+Tobias Marney, q13-lidt-enig
+Tobias Marney, q14-lidt-uenig
+Tobias Marney, q15-lidt-uenig
+Tobias Marney, q16-lidt-enig
+Tobias Marney, q17-enig
+Tobias Marney, q19-enig
+Tobias Marney, q20-enig
+Tobias Marney, q21-enig
+Tobias Marney, q22-lidt-enig
+Tobias Marney, q23-lidt-enig
+Tobias Marney, q24-lidt-enig
+Tobias Marney, q25-lidt-enig
+Laurs Nørlund, q1-enig
+Laurs Nørlund, q2-uenig
+Laurs Nørlund, q3-enig
+Laurs Nørlund, q4-enig
+Laurs Nørlund, q5-enig
+Laurs Nørlund, q6-lidt-uenig
+Laurs Nørlund, q7-lidt-enig
+Laurs Nørlund, q8-enig
+Laurs Nørlund, q9-uenig
+Laurs Nørlund, q10-lidt-enig
+Laurs Nørlund, q11-enig
+Laurs Nørlund, q12-enig
+Laurs Nørlund, q13-lidt-enig
+Laurs Nørlund, q14-uenig
+Laurs Nørlund, q15-lidt-uenig
+Laurs Nørlund, q16-lidt-uenig
+Laurs Nørlund, q17-enig
+Laurs Nørlund, q18-lidt-uenig
+Laurs Nørlund, q19-lidt-enig
+Laurs Nørlund, q20-enig
+Laurs Nørlund, q21-lidt-enig
+Laurs Nørlund, q22-lidt-enig
+Laurs Nørlund, q23-enig
+Laurs Nørlund, q24-lidt-enig
+Laurs Nørlund, q25-lidt-enig
+Barikan Solecki, q1-enig
+Barikan Solecki, q2-uenig
+Barikan Solecki, q3-enig
+Barikan Solecki, q4-enig
+Barikan Solecki, q5-enig
+Barikan Solecki, q6-lidt-uenig
+Barikan Solecki, q7-lidt-enig
+Barikan Solecki, q8-enig
+Barikan Solecki, q9-uenig
+Barikan Solecki, q10-lidt-enig
+Barikan Solecki, q11-enig
+Barikan Solecki, q12-enig
+Barikan Solecki, q13-lidt-enig
+Barikan Solecki, q14-enig
+Barikan Solecki, q15-lidt-uenig
+Barikan Solecki, q16-lidt-enig
+Barikan Solecki, q17-enig
+Barikan Solecki, q18-lidt-uenig
+Barikan Solecki, q19-enig
+Barikan Solecki, q20-enig
+Barikan Solecki, q21-enig
+Barikan Solecki, q22-lidt-uenig
+Barikan Solecki, q23-lidt-enig
+Barikan Solecki, q24-lidt-uenig
+Barikan Solecki, q25-enig
+Klavs A. Holm, q1-enig
+Klavs A. Holm, q2-uenig
+Klavs A. Holm, q3-enig
+Klavs A. Holm, q4-enig
+Klavs A. Holm, q5-enig
+Klavs A. Holm, q6-uenig
+Klavs A. Holm, q7-enig
+Klavs A. Holm, q8-enig
+Klavs A. Holm, q9-lidt-uenig
+Klavs A. Holm, q10-enig
+Klavs A. Holm, q11-enig
+Klavs A. Holm, q12-enig
+Klavs A. Holm, q13-uenig
+Klavs A. Holm, q14-lidt-uenig
+Klavs A. Holm, q15-lidt-uenig
+Klavs A. Holm, q16-lidt-enig
+Klavs A. Holm, q17-lidt-enig
+Klavs A. Holm, q18-lidt-enig
+Klavs A. Holm, q19-lidt-enig
+Klavs A. Holm, q20-lidt-uenig
+Klavs A. Holm, q21-lidt-enig
+Klavs A. Holm, q22-enig
+Klavs A. Holm, q23-lidt-uenig
+Klavs A. Holm, q24-lidt-uenig
+Klavs A. Holm, q25-lidt-enig
+Karin Liltorp, q1-enig
+Karin Liltorp, q2-uenig
+Karin Liltorp, q3-lidt-enig
+Karin Liltorp, q4-enig
+Karin Liltorp, q5-enig
+Karin Liltorp, q6-lidt-uenig
+Karin Liltorp, q7-lidt-enig
+Karin Liltorp, q8-enig
+Karin Liltorp, q9-lidt-uenig
+Karin Liltorp, q10-lidt-enig
+Karin Liltorp, q11-enig
+Karin Liltorp, q12-enig
+Karin Liltorp, q13-lidt-enig
+Karin Liltorp, q14-uenig
+Karin Liltorp, q15-lidt-uenig
+Karin Liltorp, q16-lidt-enig
+Karin Liltorp, q17-enig
+Karin Liltorp, q18-lidt-uenig
+Karin Liltorp, q19-enig
+Karin Liltorp, q20-lidt-enig
+Karin Liltorp, q21-enig
+Karin Liltorp, q22-lidt-enig
+Karin Liltorp, q23-lidt-enig
+Karin Liltorp, q24-lidt-uenig
+Karin Liltorp, q25-enig

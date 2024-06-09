@@ -1,0 +1,175 @@
+Carsten Sørensen, q1-uenig
+Carsten Sørensen, q2-enig
+Carsten Sørensen, q3-enig
+Carsten Sørensen, q4-lidt-uenig
+Carsten Sørensen, q5-lidt-uenig
+Carsten Sørensen, q6-lidt-uenig
+Carsten Sørensen, q7-lidt-enig
+Carsten Sørensen, q8-lidt-uenig
+Carsten Sørensen, q9-lidt-enig
+Carsten Sørensen, q10-enig
+Carsten Sørensen, q11-uenig
+Carsten Sørensen, q12-lidt-enig
+Carsten Sørensen, q13-enig
+Carsten Sørensen, q14-lidt-enig
+Carsten Sørensen, q15-enig
+Carsten Sørensen, q16-uenig
+Carsten Sørensen, q17-lidt-uenig
+Carsten Sørensen, q18-lidt-enig
+Carsten Sørensen, q19-lidt-enig
+Carsten Sørensen, q20-uenig
+Carsten Sørensen, q21-lidt-uenig
+Carsten Sørensen, q22-uenig
+Carsten Sørensen, q23-uenig
+Carsten Sørensen, q24-lidt-enig
+Carsten Sørensen, q25-uenig
+Michael Nedersøe, q1-lidt-uenig
+Michael Nedersøe, q2-lidt-enig
+Michael Nedersøe, q3-lidt-enig
+Michael Nedersøe, q4-lidt-uenig
+Michael Nedersøe, q5-lidt-uenig
+Michael Nedersøe, q6-lidt-enig
+Michael Nedersøe, q7-lidt-enig
+Michael Nedersøe, q8-lidt-uenig
+Michael Nedersøe, q9-lidt-enig
+Michael Nedersøe, q10-enig
+Michael Nedersøe, q11-lidt-uenig
+Michael Nedersøe, q12-lidt-enig
+Michael Nedersøe, q13-enig
+Michael Nedersøe, q14-enig
+Michael Nedersøe, q15-enig
+Michael Nedersøe, q16-lidt-uenig
+Michael Nedersøe, q17-lidt-uenig
+Michael Nedersøe, q18-lidt-enig
+Michael Nedersøe, q19-enig
+Michael Nedersøe, q20-lidt-uenig
+Michael Nedersøe, q21-lidt-uenig
+Michael Nedersøe, q22-lidt-uenig
+Michael Nedersøe, q23-lidt-uenig
+Michael Nedersøe, q24-lidt-uenig
+Michael Nedersøe, q25-uenig
+Rune Bønnelykke, q1-uenig
+Rune Bønnelykke, q2-enig
+Rune Bønnelykke, q3-uenig
+Rune Bønnelykke, q4-uenig
+Rune Bønnelykke, q5-uenig
+Rune Bønnelykke, q6-enig
+Rune Bønnelykke, q7-enig
+Rune Bønnelykke, q8-uenig
+Rune Bønnelykke, q9-enig
+Rune Bønnelykke, q10-enig
+Rune Bønnelykke, q11-uenig
+Rune Bønnelykke, q12-enig
+Rune Bønnelykke, q13-enig
+Rune Bønnelykke, q14-enig
+Rune Bønnelykke, q15-enig
+Rune Bønnelykke, q16-uenig
+Rune Bønnelykke, q17-uenig
+Rune Bønnelykke, q18-enig
+Rune Bønnelykke, q19-uenig
+Rune Bønnelykke, q20-uenig
+Rune Bønnelykke, q21-lidt-uenig
+Rune Bønnelykke, q22-uenig
+Rune Bønnelykke, q23-uenig
+Rune Bønnelykke, q24-enig
+Rune Bønnelykke, q25-uenig
+Julie Jacobsen, q1-uenig
+Julie Jacobsen, q2-enig
+Julie Jacobsen, q3-lidt-uenig
+Julie Jacobsen, q4-lidt-enig
+Julie Jacobsen, q5-lidt-enig
+Julie Jacobsen, q6-lidt-uenig
+Julie Jacobsen, q7-lidt-enig
+Julie Jacobsen, q8-lidt-enig
+Julie Jacobsen, q9-lidt-enig
+Julie Jacobsen, q10-enig
+Julie Jacobsen, q11-uenig
+Julie Jacobsen, q12-lidt-enig
+Julie Jacobsen, q13-enig
+Julie Jacobsen, q14-lidt-enig
+Julie Jacobsen, q15-enig
+Julie Jacobsen, q16-lidt-enig
+Julie Jacobsen, q17-lidt-uenig
+Julie Jacobsen, q18-enig
+Julie Jacobsen, q19-enig
+Julie Jacobsen, q20-uenig
+Julie Jacobsen, q21-lidt-enig
+Julie Jacobsen, q22-lidt-uenig
+Julie Jacobsen, q23-uenig
+Julie Jacobsen, q24-lidt-enig
+Julie Jacobsen, q25-uenig
+Søren Hansen, q1-lidt-uenig
+Søren Hansen, q2-enig
+Søren Hansen, q3-lidt-uenig
+Søren Hansen, q4-lidt-enig
+Søren Hansen, q5-lidt-uenig
+Søren Hansen, q6-lidt-enig
+Søren Hansen, q7-enig
+Søren Hansen, q8-lidt-uenig
+Søren Hansen, q9-lidt-enig
+Søren Hansen, q10-enig
+Søren Hansen, q11-uenig
+Søren Hansen, q12-lidt-enig
+Søren Hansen, q13-enig
+Søren Hansen, q14-lidt-enig
+Søren Hansen, q15-enig
+Søren Hansen, q16-lidt-uenig
+Søren Hansen, q17-lidt-uenig
+Søren Hansen, q18-lidt-uenig
+Søren Hansen, q19-lidt-uenig
+Søren Hansen, q20-uenig
+Søren Hansen, q21-lidt-enig
+Søren Hansen, q22-uenig
+Søren Hansen, q23-uenig
+Søren Hansen, q24-lidt-enig
+Søren Hansen, q25-uenig
+Inger-Marie Tryde, q1-uenig
+Inger-Marie Tryde, q2-enig
+Inger-Marie Tryde, q3-lidt-enig
+Inger-Marie Tryde, q4-lidt-enig
+Inger-Marie Tryde, q5-uenig
+Inger-Marie Tryde, q6-lidt-enig
+Inger-Marie Tryde, q7-enig
+Inger-Marie Tryde, q8-lidt-uenig
+Inger-Marie Tryde, q9-lidt-enig
+Inger-Marie Tryde, q10-lidt-enig
+Inger-Marie Tryde, q11-uenig
+Inger-Marie Tryde, q12-lidt-uenig
+Inger-Marie Tryde, q13-enig
+Inger-Marie Tryde, q14-lidt-enig
+Inger-Marie Tryde, q15-enig
+Inger-Marie Tryde, q16-uenig
+Inger-Marie Tryde, q17-lidt-uenig
+Inger-Marie Tryde, q18-lidt-enig
+Inger-Marie Tryde, q19-lidt-enig
+Inger-Marie Tryde, q20-uenig
+Inger-Marie Tryde, q21-lidt-uenig
+Inger-Marie Tryde, q22-uenig
+Inger-Marie Tryde, q23-uenig
+Inger-Marie Tryde, q24-lidt-uenig
+Inger-Marie Tryde, q25-uenig
+Mette Sode Hansen, q1-lidt-uenig
+Mette Sode Hansen, q2-enig
+Mette Sode Hansen, q3-lidt-uenig
+Mette Sode Hansen, q4-uenig
+Mette Sode Hansen, q5-uenig
+Mette Sode Hansen, q6-lidt-uenig
+Mette Sode Hansen, q7-enig
+Mette Sode Hansen, q8-uenig
+Mette Sode Hansen, q9-lidt-enig
+Mette Sode Hansen, q10-lidt-enig
+Mette Sode Hansen, q11-uenig
+Mette Sode Hansen, q12-lidt-uenig
+Mette Sode Hansen, q13-enig
+Mette Sode Hansen, q14-enig
+Mette Sode Hansen, q15-enig
+Mette Sode Hansen, q16-lidt-uenig
+Mette Sode Hansen, q17-uenig
+Mette Sode Hansen, q18-lidt-enig
+Mette Sode Hansen, q19-enig
+Mette Sode Hansen, q20-uenig
+Mette Sode Hansen, q21-uenig
+Mette Sode Hansen, q22-uenig
+Mette Sode Hansen, q23-uenig
+Mette Sode Hansen, q24-uenig
+Mette Sode Hansen, q25-uenig
